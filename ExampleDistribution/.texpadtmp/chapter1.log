@@ -1,0 +1,701 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdftex 2015.5.24)  24 JUN 2015 13:40
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/Users/michaelwicks/Documents/git-repos/Candidacy/ExampleDistribution/chapter1.tex
+(/Users/michaelwicks/Documents/git-repos/Candidacy/ExampleDistribution/chapter1.tex
+/Users/michaelwicks/Documents/git-repos/Candidacy/ExampleDistribution/chapter1.tex:33: Undefined control sequence.
+l.33 \chapter
+             {INTRODUCTION}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/michaelwicks/Documents/git-repos/Candidacy/ExampleDistribution/chapter1.tex:35: Undefined control sequence.
+l.35 \section
+             {Overview}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/michaelwicks/Documents/git-repos/Candidacy/ExampleDistribution/chapter1.tex:42: Undefined control sequence.
+l.42 \subsection
+                {Background}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/michaelwicks/Documents/git-repos/Candidacy/ExampleDistribution/chapter1.tex:46: Undefined control sequence.
+l.46 Gnus~\citep
+                {gnus98:_gerry_ganst,greenfield96:_gettin_know_gnu}.  They
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/michaelwicks/Documents/git-repos/Candidacy/ExampleDistribution/chapter1.tex:46: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.46 Gnus~\citep{gnus98:_
+                         gerry_ganst,greenfield96:_gettin_know_gnu}.  They
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/michaelwicks/Documents/git-repos/Candidacy/ExampleDistribution/chapter1.tex:46: Extra }, or forgotten $.
+l.46 ...gerry_ganst,greenfield96:_gettin_know_gnu}
+                                                  .  They
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+/Users/michaelwicks/Documents/git-repos/Candidacy/ExampleDistribution/chapter1.tex:49: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.49 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (140.9411pt too wide) in paragraph at lines 44--49
+\tenrm avail-able on Gnus gnus98:$[]\teni erry[]anst; greenfield\tenrm 96 :[] \teni ettin[]now[]nu:TheyareverywellwrittenandwillgiveyouafullerunderstandingofGnus:$ |
+
+\hbox(6.94444+2.86108)x469.75499, glue set - 1.0
+.\tenrm a
+.\kern-0.27779
+.\tenrm v
+.\kern-0.55556
+.\tenrm a
+.etc.
+
+Runaway argument?
+/Users/michaelwicks/Documents/git-repos/Candidacy/ExampleDistribution/chapter1.tex:59: Paragraph ended before \next was complete.
+<to be read again> 
+                   \par 
+l.59 
+     
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+/Users/michaelwicks/Documents/git-repos/Candidacy/ExampleDistribution/chapter1.tex:60: Undefined control sequence.
+l.60 \subsection
+                {Foreground}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/michaelwicks/Documents/git-repos/Candidacy/ExampleDistribution/chapter1.tex:62: Undefined control sequence.
+l.62 Table~\ref
+               {tbl:bogus1} shows some feeding frequencies for where Gnus
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/michaelwicks/Documents/git-repos/Candidacy/ExampleDistribution/chapter1.tex:67: Undefined control sequence.
+<recently read> \mathcal 
+                         
+l.67 sighting frequency, $\mathcal
+                                  {F}$, by the student population, type of f...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/michaelwicks/Documents/git-repos/Candidacy/ExampleDistribution/chapter1.tex:69: Undefined control sequence.
+l.69 \begin
+           {equation}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/michaelwicks/Documents/git-repos/Candidacy/ExampleDistribution/chapter1.tex:70: Undefined control sequence.
+l.70   \mathcal
+               {F} = \mathcal{F}(p,f,d).
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/michaelwicks/Documents/git-repos/Candidacy/ExampleDistribution/chapter1.tex:70: Undefined control sequence.
+l.70   \mathcal{F} = \mathcal
+                             {F}(p,f,d).
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/michaelwicks/Documents/git-repos/Candidacy/ExampleDistribution/chapter1.tex:71: You can't use `\end' in internal vertical mode.
+<recently read> \end 
+                     
+l.71 \end
+         {equation}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/michaelwicks/Documents/git-repos/Candidacy/ExampleDistribution/chapter1.tex:72: Undefined control sequence.
+l.72 Table~\ref
+               {tbl:bogus2} shows what they
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/michaelwicks/Documents/git-repos/Candidacy/ExampleDistribution/chapter1.tex:75: Undefined control sequence.
+l.75 \begin
+           {table}[tpb]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/michaelwicks/Documents/git-repos/Candidacy/ExampleDistribution/chapter1.tex:76: Undefined control sequence.
+l.76   \begin
+             {center}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/michaelwicks/Documents/git-repos/Candidacy/ExampleDistribution/chapter1.tex:77: Undefined control sequence.
+l.77     \caption
+                 {WHERE Gnus LIKE TO EAT \label{tbl:bogus1}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/michaelwicks/Documents/git-repos/Candidacy/ExampleDistribution/chapter1.tex:77: Undefined control sequence.
+l.77     \caption{WHERE Gnus LIKE TO EAT \label
+                                               {tbl:bogus1}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/michaelwicks/Documents/git-repos/Candidacy/ExampleDistribution/chapter1.tex:78: Undefined control sequence.
+l.78     \begin
+               {tabularx}{0.85\textwidth}{lrrrrrrr} \toprule
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/michaelwicks/Documents/git-repos/Candidacy/ExampleDistribution/chapter1.tex:78: Undefined control sequence.
+l.78     \begin{tabularx}{0.85\textwidth
+                                        }{lrrrrrrr} \toprule
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/michaelwicks/Documents/git-repos/Candidacy/ExampleDistribution/chapter1.tex:78: Undefined control sequence.
+l.78 ...bularx}{0.85\textwidth}{lrrrrrrr} \toprule
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/michaelwicks/Documents/git-repos/Candidacy/ExampleDistribution/chapter1.tex:79: Undefined control sequence.
+l.79       \multicolumn
+                       {1}{c}{Location} & Sun & Mon & Tue & Wed & Thu & Fri ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/michaelwicks/Documents/git-repos/Candidacy/ExampleDistribution/chapter1.tex:79: Misplaced alignment tab character &.
+l.79       \multicolumn{1}{c}{Location} &
+                                          Sun & Mon & Tue & Wed & Thu & Fri ...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelwicks/Documents/git-repos/Candidacy/ExampleDistribution/chapter1.tex:79: Misplaced alignment tab character &.
+l.79       \multicolumn{1}{c}{Location} & Sun &
+                                                Mon & Tue & Wed & Thu & Fri ...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelwicks/Documents/git-repos/Candidacy/ExampleDistribution/chapter1.tex:79: Misplaced alignment tab character &.
+l.79 ...\multicolumn{1}{c}{Location} & Sun & Mon &
+                                                   Tue & Wed & Thu & Fri & S...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelwicks/Documents/git-repos/Candidacy/ExampleDistribution/chapter1.tex:79: Misplaced alignment tab character &.
+l.79 ...column{1}{c}{Location} & Sun & Mon & Tue &
+                                                   Wed & Thu & Fri & Sat \\ ...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelwicks/Documents/git-repos/Candidacy/ExampleDistribution/chapter1.tex:79: Misplaced alignment tab character &.
+l.79 ...{1}{c}{Location} & Sun & Mon & Tue & Wed &
+                                                   Thu & Fri & Sat \\ \midrule
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelwicks/Documents/git-repos/Candidacy/ExampleDistribution/chapter1.tex:79: Misplaced alignment tab character &.
+l.79 ...{Location} & Sun & Mon & Tue & Wed & Thu &
+                                                   Fri & Sat \\ \midrule
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelwicks/Documents/git-repos/Candidacy/ExampleDistribution/chapter1.tex:79: Misplaced alignment tab character &.
+l.79 ...ion} & Sun & Mon & Tue & Wed & Thu & Fri &
+                                                   Sat \\ \midrule
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Runaway argument?
+ \midrule Front of Dome & 1 & 5 & 6 & 5 & 4 & 5 & 1 \\ Stonehenge & 2\ETC.
+/Users/michaelwicks/Documents/git-repos/Candidacy/ExampleDistribution/chapter1.tex:89: Paragraph ended before \\ was complete.
+<to be read again> 
+                   \par 
+l.89 
+     
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+/Users/michaelwicks/Documents/git-repos/Candidacy/ExampleDistribution/chapter1.tex:90: Undefined control sequence.
+l.90 \begin
+           {table}[tpb]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/michaelwicks/Documents/git-repos/Candidacy/ExampleDistribution/chapter1.tex:91: Undefined control sequence.
+l.91   \setlength
+                 {\capwidth}{0.7\textwidth}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/michaelwicks/Documents/git-repos/Candidacy/ExampleDistribution/chapter1.tex:91: Undefined control sequence.
+l.91   \setlength{\capwidth
+                           }{0.7\textwidth}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/michaelwicks/Documents/git-repos/Candidacy/ExampleDistribution/chapter1.tex:91: Undefined control sequence.
+l.91   \setlength{\capwidth}{0.7\textwidth
+                                          }
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/michaelwicks/Documents/git-repos/Candidacy/ExampleDistribution/chapter1.tex:92: Undefined control sequence.
+l.92   \begin
+             {center}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/michaelwicks/Documents/git-repos/Candidacy/ExampleDistribution/chapter1.tex:93: Undefined control sequence.
+l.93     \caption
+                 {WHAT Gnus LIKE TO EAT ON THE NOTRE DAME CAMPUS, LISTED
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/michaelwicks/Documents/git-repos/Candidacy/ExampleDistribution/chapter1.tex:95: Undefined control sequence.
+l.95     \label
+               {tbl:bogus2}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/michaelwicks/Documents/git-repos/Candidacy/ExampleDistribution/chapter1.tex:97: Undefined control sequence.
+l.97     \begin
+               {tabular}{lrrrrrrr} \toprule
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/michaelwicks/Documents/git-repos/Candidacy/ExampleDistribution/chapter1.tex:97: Undefined control sequence.
+l.97     \begin{tabular}{lrrrrrrr} \toprule
+                                           
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/michaelwicks/Documents/git-repos/Candidacy/ExampleDistribution/chapter1.tex:98: Undefined control sequence.
+l.98       \multicolumn
+                       {1}{c}{Food} & Sun & Mon & Tue & Wed & Thu & Fri & Sa...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/michaelwicks/Documents/git-repos/Candidacy/ExampleDistribution/chapter1.tex:98: Misplaced alignment tab character &.
+l.98       \multicolumn{1}{c}{Food} &
+                                      Sun & Mon & Tue & Wed & Thu & Fri & Sa...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelwicks/Documents/git-repos/Candidacy/ExampleDistribution/chapter1.tex:98: Misplaced alignment tab character &.
+l.98       \multicolumn{1}{c}{Food} & Sun &
+                                            Mon & Tue & Wed & Thu & Fri & Sa...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelwicks/Documents/git-repos/Candidacy/ExampleDistribution/chapter1.tex:98: Misplaced alignment tab character &.
+l.98       \multicolumn{1}{c}{Food} & Sun & Mon &
+                                                  Tue & Wed & Thu & Fri & Sa...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelwicks/Documents/git-repos/Candidacy/ExampleDistribution/chapter1.tex:98: Misplaced alignment tab character &.
+l.98 ...ulticolumn{1}{c}{Food} & Sun & Mon & Tue &
+                                                   Wed & Thu & Fri & Sat \\ ...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelwicks/Documents/git-repos/Candidacy/ExampleDistribution/chapter1.tex:98: Misplaced alignment tab character &.
+l.98 ...lumn{1}{c}{Food} & Sun & Mon & Tue & Wed &
+                                                   Thu & Fri & Sat \\ \midrule
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelwicks/Documents/git-repos/Candidacy/ExampleDistribution/chapter1.tex:98: Misplaced alignment tab character &.
+l.98 ...}{c}{Food} & Sun & Mon & Tue & Wed & Thu &
+                                                   Fri & Sat \\ \midrule
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelwicks/Documents/git-repos/Candidacy/ExampleDistribution/chapter1.tex:98: Misplaced alignment tab character &.
+l.98 ...ood} & Sun & Mon & Tue & Wed & Thu & Fri &
+                                                   Sat \\ \midrule
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Runaway argument?
+ \midrule Twinkies & 1 & 5 & 6 & 5 & 4 & 5 & 1 \\ Ding Dongs & 2 & 9 \ETC.
+/Users/michaelwicks/Documents/git-repos/Candidacy/ExampleDistribution/chapter1.tex:108: Paragraph ended before \\ was complete.
+<to be read again> 
+                   \par 
+l.108 
+      
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+/Users/michaelwicks/Documents/git-repos/Candidacy/ExampleDistribution/chapter1.tex:109: Undefined control sequence.
+l.109 Figure~\ref
+                 {fig:bogus3} shows a nice graph of location distributions
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/michaelwicks/Documents/git-repos/Candidacy/ExampleDistribution/chapter1.tex:113: Undefined control sequence.
+l.113 \begin
+            {figure}[tpb]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/michaelwicks/Documents/git-repos/Candidacy/ExampleDistribution/chapter1.tex:114: Undefined control sequence.
+l.114   \begin
+              {center}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/michaelwicks/Documents/git-repos/Candidacy/ExampleDistribution/chapter1.tex:115: Undefined control sequence.
+<argument> \includegraphics 
+                            [scale=0.8]{sample_nd}
+\centerline #1->\line {\hss #1
+                              \hss }
+l.115 ...e{\includegraphics[scale=0.8]{sample_nd}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/michaelwicks/Documents/git-repos/Candidacy/ExampleDistribution/chapter1.tex:115: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+<argument> \includegraphics [scale=0.8]{sample_
+                                               nd}
+\centerline #1->\line {\hss #1
+                              \hss }
+l.115 ...e{\includegraphics[scale=0.8]{sample_nd}}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/michaelwicks/Documents/git-repos/Candidacy/ExampleDistribution/chapter1.tex:115: Extra }, or forgotten $.
+<argument> \includegraphics [scale=0.8]{sample_nd}
+                                                  
+\centerline #1->\line {\hss #1
+                              \hss }
+l.115 ...e{\includegraphics[scale=0.8]{sample_nd}}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+/Users/michaelwicks/Documents/git-repos/Candidacy/ExampleDistribution/chapter1.tex:115: Extra }, or forgotten $.
+\centerline #1->\line {\hss #1\hss }
+                                    
+l.115 ...e{\includegraphics[scale=0.8]{sample_nd}}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+/Users/michaelwicks/Documents/git-repos/Candidacy/ExampleDistribution/chapter1.tex:116: Undefined control sequence.
+l.116     \caption
+                  {Location distributions by day of where, where the X axis
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/michaelwicks/Documents/git-repos/Candidacy/ExampleDistribution/chapter1.tex:119: Undefined control sequence.
+l.119     \label
+                {fig:bogus3}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/michaelwicks/Documents/git-repos/Candidacy/ExampleDistribution/chapter1.tex:120: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \end 
+l.120   \end
+            {center}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/michaelwicks/Documents/git-repos/Candidacy/ExampleDistribution/chapter1.tex:120: Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   \end 
+l.120   \end
+            {center}
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+/Users/michaelwicks/Documents/git-repos/Candidacy/ExampleDistribution/chapter1.tex:120: Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   \end 
+l.120   \end
+            {center}
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (95.889pt too wide) in paragraph at lines 113--120
+[]\tenrm figure[tpb] cen-ter [] |
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm ^^L (ligature fi)
+.\tenrm g
+.\tenrm u
+.\tenrm r
+.etc.
+
+/Users/michaelwicks/Documents/git-repos/Candidacy/ExampleDistribution/chapter1.tex:120: You can't use `\end' in internal vertical mode.
+<recently read> \end 
+                     
+l.120   \end
+            {center}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/michaelwicks/Documents/git-repos/Candidacy/ExampleDistribution/chapter1.tex:121: You can't use `\end' in internal vertical mode.
+<recently read> \end 
+                     
+l.121 \end
+          {figure}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/michaelwicks/Documents/git-repos/Candidacy/ExampleDistribution/chapter1.tex:132: Undefined control sequence.
+l.132 \section
+              {Groovin' Gnus}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/michaelwicks/Documents/git-repos/Candidacy/ExampleDistribution/chapter1.tex:133: Undefined control sequence.
+l.133 \label
+            {sec:groovin-gnus}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/michaelwicks/Documents/git-repos/Candidacy/ExampleDistribution/chapter1.tex:147: Undefined control sequence.
+l.147 \begin
+            {quote}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/michaelwicks/Documents/git-repos/Candidacy/ExampleDistribution/chapter1.tex:151: You can't use `\end' in internal vertical mode.
+<recently read> \end 
+                     
+l.151 \end
+          {quote}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+)
+! Emergency stop.
+<*> .../Candidacy/ExampleDistribution/chapter1.tex
+                                                  
+*** (job aborted, no legal \end found)
+
+!  ==> Fatal error occurred, no output PDF file produced!
