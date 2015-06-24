@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  24 JUN 2015 13:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  24 JUN 2015 13:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -271,7 +271,7 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-) (/Users/michaelwicks/Documents/git-repos/Candidacy/.texpadtmp/draft.aux (/Users/michaelwicks/Documents/git-repos/Candidacy/.texpadtmp/chapter1.aux) (/Users/michaelwicks/Documents/git-repos/Candidacy/.texpadtmp/chapter2.aux) (/Users/michaelwicks/Documents/git-repos/Candidacy/.texpadtmp/appendix.aux))
+) (/Users/michaelwicks/Documents/git-repos/Candidacy/.texpadtmp/draft.aux (/Users/michaelwicks/Documents/git-repos/Candidacy/.texpadtmp/chapter1.aux) (/Users/michaelwicks/Documents/git-repos/Candidacy/.texpadtmp/chapter2.aux) (/Users/michaelwicks/Documents/git-repos/Candidacy/.texpadtmp/chapter3.aux) (/Users/michaelwicks/Documents/git-repos/Candidacy/.texpadtmp/appendix.aux))
 \openout1 = `draft.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 81.
@@ -547,98 +547,75 @@ List of tables - TABLES
 
  (./chapter1.tex
 CHAPTER 1.
-[1
+) [1
 
 
 
 ]
-Underfull \hbox (badness 10000) in alignment at lines 86--86
-[][][][][][][][] 
- []
-
-
-./chapter1.tex:115: LaTeX Error: File `sample_nd' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.115 ...e{\includegraphics[scale=0.8]{sample_nd}}
-                                                  
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[2pdfTeX warning (ext4): destination with the same identifier (name{table.1.1}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.131 
-      ] [3pdfTeX warning (ext4): destination with the same identifier (name{table.1.2}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.131 
-      pdfTeX warning (ext4): destination with the same identifier (name{figure.1.1}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.131 
-      ]) [4]
 \openout2 = `chapter2.aux'.
 
- (./chapter2.tex)
+ (./chapter2.tex
+CHAPTER 2.
+) [2
+
+
+
+]
+\openout2 = `chapter3.aux'.
+
+ (./chapter3.tex
+CHAPTER 3.
+) [3
+
+
+
+]
 \openout2 = `appendix.aux'.
 
- (./appendix.tex) (/Users/michaelwicks/Documents/git-repos/Candidacy/.texpadtmp/draft.bbl)
+ (./appendix.tex) (/Users/michaelwicks/Documents/git-repos/Candidacy/.texpadtmp/draft.bbl
+
+Package natbib Warning: Empty `thebibliography' environment on input line 8.
+
+)
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/sc' in size <10> not available
-(Font)              Font shape `OT1/cmr/m/sc' tried instead on input line 324.
+(Font)              Font shape `OT1/cmr/m/sc' tried instead on input line 329.
 
-[5
-
-
+[4
 
 
 
 
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 324.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 324.
- (/Users/michaelwicks/Documents/git-repos/Candidacy/.texpadtmp/draft.aux (/Users/michaelwicks/Documents/git-repos/Candidacy/.texpadtmp/chapter1.aux) (/Users/michaelwicks/Documents/git-repos/Candidacy/.texpadtmp/chapter2.aux) (/Users/michaelwicks/Documents/git-repos/Candidacy/.texpadtmp/appendix.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 324.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 324.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 329.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 329.
+ (/Users/michaelwicks/Documents/git-repos/Candidacy/.texpadtmp/draft.aux (/Users/michaelwicks/Documents/git-repos/Candidacy/.texpadtmp/chapter1.aux) (/Users/michaelwicks/Documents/git-repos/Candidacy/.texpadtmp/chapter2.aux) (/Users/michaelwicks/Documents/git-repos/Candidacy/.texpadtmp/chapter3.aux) (/Users/michaelwicks/Documents/git-repos/Candidacy/.texpadtmp/appendix.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 329.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 329.
 Package rerunfilecheck Info: File `draft.out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 324.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 329.
  ) 
 Here is how much of TeX's memory you used:
- 7129 strings out of 493089
- 103927 string characters out of 6134842
- 196061 words of memory out of 5000000
- 10395 multiletter control sequences out of 15000+600000
+ 7132 strings out of 493089
+ 104248 string characters out of 6134842
+ 192065 words of memory out of 5000000
+ 10399 multiletter control sequences out of 15000+600000
  17296 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,9n,32p,273b,419s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{Hfootnote.4} has been referenced but does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.3} has been referenced but does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist, replaced by a fixed one
-
+ 41i,8n,32p,265b,419s stack positions out of 5000i,500n,10000p,200000b,80000s
 pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist, replaced by a fixed one
 
 </usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxsl10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on /Users/michaelwicks/Documents/git-repos/Candidacy/.texpadtmp/draft.pdf (15 pages, 185389 bytes).
+Output written on /Users/michaelwicks/Documents/git-repos/Candidacy/.texpadtmp/draft.pdf (14 pages, 169303 bytes).
 PDF statistics:
- 219 PDF objects out of 1000 (max. 8388607)
- 184 compressed objects within 2 object streams
- 34 named destinations out of 1000 (max. 500000)
- 89 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 279 PDF objects out of 1000 (max. 8388607)
+ 244 compressed objects within 3 object streams
+ 40 named destinations out of 1000 (max. 500000)
+ 217 words of extra memory for PDF output out of 10000 (max. 10000000)
 

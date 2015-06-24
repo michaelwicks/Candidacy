@@ -3,47 +3,50 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: /Users/michaelwicks/Documents/git-repos/Candidacy/.texpadtmp/draft.aux
 A level-1 auxiliary file: chapter1.aux
 A level-1 auxiliary file: chapter2.aux
+A level-1 auxiliary file: chapter3.aux
 A level-1 auxiliary file: appendix.aux
 The style file: abbrvnat.bst
+I found no \citation commands---while reading file /Users/michaelwicks/Documents/git-repos/Candidacy/.texpadtmp/draft.aux
 Database file #1: ../example.bib
-You've used 2 entries,
+You've used 0 entries,
             2773 wiz_defined-function locations,
-            607 strings with 4920 characters,
-and the built_in function-call counts, 682 in all, are:
-= -- 56
-> -- 31
-< -- 3
-+ -- 11
-- -- 9
-* -- 48
-:= -- 118
-add.period$ -- 6
-call.type$ -- 2
-change.case$ -- 7
-chr.to.int$ -- 2
-cite$ -- 4
-duplicate$ -- 36
-empty$ -- 55
-format.name$ -- 13
-if$ -- 132
+            596 strings with 4718 characters,
+and the built_in function-call counts, 33 in all, are:
+= -- 0
+> -- 0
+< -- 0
++ -- 0
+- -- 0
+* -- 2
+:= -- 10
+add.period$ -- 0
+call.type$ -- 0
+change.case$ -- 0
+chr.to.int$ -- 0
+cite$ -- 0
+duplicate$ -- 0
+empty$ -- 1
+format.name$ -- 0
+if$ -- 1
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 2
-newline$ -- 18
-num.names$ -- 8
-pop$ -- 18
+missing$ -- 0
+newline$ -- 8
+num.names$ -- 0
+pop$ -- 0
 preamble$ -- 1
-purify$ -- 7
+purify$ -- 0
 quote$ -- 0
-skip$ -- 27
+skip$ -- 1
 stack$ -- 0
-substring$ -- 4
-swap$ -- 5
-text.length$ -- 1
+substring$ -- 0
+swap$ -- 0
+text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 17
+type$ -- 0
 warning$ -- 0
-while$ -- 6
+while$ -- 0
 width$ -- 0
-write$ -- 33
+write$ -- 7
+(There was 1 error message)

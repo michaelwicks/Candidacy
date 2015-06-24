@@ -1,18 +1,8 @@
-\begin{thebibliography}{2}
+\begin{thebibliography}{0}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
-
-\bibitem[Ganston and Greenfield(1998)]{gnus98:_gerry_ganst}
-G.~Ganston and G.~Greenfield.
-\newblock \emph{Gnus and You: The Art of Being New}, volume~I.
-\newblock Grapping Books, NY, August 1998.
-
-\bibitem[Greenfield(1996)]{greenfield96:_gettin_know_gnu}
-G.~Greenfield.
-\newblock \emph{Getting to Know Gnu}.
-\newblock PhD thesis, Geoffrey Garfield School of Gnus, August 1996.
 
 \end{thebibliography}
