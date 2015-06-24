@@ -5,14 +5,20 @@
 
 **1.2 Theory of Aeroacoustics**
 
-Lighthill analogy (acoustic radiation):
-volume only
-acoustic power = quadrupole source w/ no flow
-turbulence generates quadrupole source (turbulent jet)
+Lighthill analogy (acoustic radiation)
 
-+ solid boundary
+volume only
+
+acoustic power = quadrupole source w/ no flow
+turbulence generates quadrupole source (turbulent jet). Turbulence emits quadrupole sources in random orientations
+
+
+ w/ solid boundary
+
 acoustic power = dipole source w/ no flow
 acoustic power = monopole source w/ no flow
+
+Note: quadrupole is more 'efficient' acoustic source but due to directivity (lobes) acoustic waves do not propogate well to the observer compared to dipole and monopole sources
 
 **1.3 landing gear**
 
@@ -32,6 +38,11 @@ KL >= 1 (acoustically noncompact)->
 Note: degradation of radiation efficiency from dipole to quadrupole corresponds to increase in acoustic power W. (U^6/r^2 -> U^8/r^2)
 
 Very complex problem: show sources of noise on LG model
+
+Two strategies for noise reduction:
+
+1. reduce OASPL (acoustic power)
+2. redirect acoustic waves from flyover orientation to sideline so they do not reach observer.
 
 ##Chapter 2: Literature Review
 
