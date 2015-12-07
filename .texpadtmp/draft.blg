@@ -5,48 +5,72 @@ A level-1 auxiliary file: chapter1.aux
 A level-1 auxiliary file: chapter2.aux
 A level-1 auxiliary file: chapter3.aux
 A level-1 auxiliary file: appendix.aux
-The style file: abbrvnat.bst
-I found no \citation commands---while reading file /Users/michaelwicks/Documents/git-repos/Candidacy/.texpadtmp/draft.aux
-Database file #1: ../example.bib
-You've used 0 entries,
-            2773 wiz_defined-function locations,
-            596 strings with 4718 characters,
-and the built_in function-call counts, 33 in all, are:
-= -- 0
-> -- 0
-< -- 0
-+ -- 0
-- -- 0
-* -- 2
-:= -- 10
-add.period$ -- 0
-call.type$ -- 0
-change.case$ -- 0
-chr.to.int$ -- 0
-cite$ -- 0
-duplicate$ -- 0
-empty$ -- 1
-format.name$ -- 0
-if$ -- 1
+The style file: ../nddiss2e.bst
+Database file #1: ../candidacy.bib
+You're missing a field name---line 7 of file ../candidacy.bib
+ : 
+ : %  title =   "Gnus and You: The Art of Being New",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 16 of file ../candidacy.bib
+ : 
+ : %  author =   "Gary Greenfield",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 24 of file ../candidacy.bib
+ : 
+ : %  author =  "Gina Gloonston",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 36 of file ../candidacy.bib
+ : 
+ : %  author =   "Gohnny Galmira",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 47 of file ../candidacy.bib
+ : 
+ : %   author =       "Grog van Gairley",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You've used 1 entry,
+            2774 wiz_defined-function locations,
+            605 strings with 4841 characters,
+and the built_in function-call counts, 317 in all, are:
+= -- 22
+> -- 10
+< -- 1
++ -- 4
+- -- 3
+* -- 15
+:= -- 58
+add.period$ -- 3
+call.type$ -- 1
+change.case$ -- 2
+chr.to.int$ -- 1
+cite$ -- 2
+duplicate$ -- 19
+empty$ -- 32
+format.name$ -- 4
+if$ -- 61
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 0
-newline$ -- 8
-num.names$ -- 0
-pop$ -- 0
+missing$ -- 2
+newline$ -- 13
+num.names$ -- 4
+pop$ -- 12
 preamble$ -- 1
-purify$ -- 0
+purify$ -- 2
 quote$ -- 0
-skip$ -- 1
+skip$ -- 12
 stack$ -- 0
-substring$ -- 0
-swap$ -- 0
+substring$ -- 2
+swap$ -- 1
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 0
+type$ -- 6
 warning$ -- 0
-while$ -- 0
+while$ -- 3
 width$ -- 0
-write$ -- 7
-(There was 1 error message)
+write$ -- 19
+(There were 5 error messages)

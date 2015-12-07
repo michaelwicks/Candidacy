@@ -3,22 +3,24 @@
 \contentsline {chapter}{{CHAPTER\ 1: INTRODUCTION}}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}Motivation}{1}{section.1.1}
 \contentsline {section}{\numberline {1.2}Theory of Aeroacoustics}{1}{section.1.2}
-\contentsline {section}{\numberline {1.3}Landing Gear}{1}{section.1.3}
-\contentsline {subsection}{\numberline {1.3.1}Geometry}{1}{subsection.1.3.1}
-\contentsline {subsection}{\numberline {1.3.2}Noise Sources}{1}{subsection.1.3.2}
-\contentsline {chapter}{{CHAPTER\ 2: Literature Review}}{2}{chapter.2}
-\contentsline {section}{\numberline {2.1}Aerodynamics and Aeroacoustics}{2}{section.2.1}
-\contentsline {subsection}{\numberline {2.1.1}Single Cylinder}{2}{subsection.2.1.1}
-\contentsline {subsection}{\numberline {2.1.2}Tandem Cylinder}{2}{subsection.2.1.2}
-\contentsline {subsection}{\numberline {2.1.3}Torque Arm}{2}{subsection.2.1.3}
-\contentsline {subsection}{\numberline {2.1.4}Landing Gear}{2}{subsection.2.1.4}
-\contentsline {section}{\numberline {2.2}Noise Reduction}{2}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}Plasma Flow Control}{2}{subsection.2.2.1}
-\contentsline {subsection}{\numberline {2.2.2}Single Cylinder}{2}{subsection.2.2.2}
-\contentsline {subsection}{\numberline {2.2.3}Tandem Cylinder}{2}{subsection.2.2.3}
-\contentsline {subsection}{\numberline {2.2.4}Torque Arm}{2}{subsection.2.2.4}
-\contentsline {chapter}{{CHAPTER\ 3: Prospectus}}{3}{chapter.3}
-\contentsline {section}{\numberline {3.1}Preliminary Results}{3}{section.3.1}
-\contentsline {subsection}{\numberline {3.1.1}Torque Arm}{3}{subsection.3.1.1}
-\contentsline {subsection}{\numberline {3.1.2}Landing Gear}{3}{subsection.3.1.2}
-\contentsline {chapter}{BIBLIOGRAPHY}{4}{appendix*.5}
+\contentsline {section}{\numberline {1.3}Landing Gear}{2}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}Geometry}{2}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {1.3.2}Noise Sources}{2}{subsection.1.3.2}
+\contentsline {section}{\numberline {1.4}Literature Review}{2}{section.1.4}
+\contentsline {subsection}{\numberline {1.4.1}Single Cylinder Plasma Flow Control}{2}{subsection.1.4.1}
+\contentsline {subsection}{\numberline {1.4.2}Tandem Cylinders Plasma Flow Control}{2}{subsection.1.4.2}
+\contentsline {subsection}{\numberline {1.4.3}Shock Strut-Torque Arm Assembly Plasma Flow Control}{2}{subsection.1.4.3}
+\contentsline {chapter}{{CHAPTER\ 2: EXPERIMENTAL APPROACH}}{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}Experimental Objective}{3}{section.2.1}
+\contentsline {section}{\numberline {2.2}Experimental Facility}{3}{section.2.2}
+\contentsline {section}{\numberline {2.3}Notre Dame G550 Nose Landing Gear Model}{3}{section.2.3}
+\contentsline {section}{\numberline {2.4}Flow Visualization}{3}{section.2.4}
+\contentsline {section}{\numberline {2.5}Pressure Measurements}{3}{section.2.5}
+\contentsline {section}{\numberline {2.6}Microphone Measurements}{3}{section.2.6}
+\contentsline {section}{\numberline {2.7}Data Acquisition}{3}{section.2.7}
+\contentsline {section}{\numberline {2.8}Current Results}{3}{section.2.8}
+\contentsline {chapter}{{CHAPTER\ 3: OBJECTIVES AND FUTURE WORK}}{4}{chapter.3}
+\contentsline {section}{\numberline {3.1}Research Objectives}{4}{section.3.1}
+\contentsline {section}{\numberline {3.2}Proposed Future Work}{4}{section.3.2}
+\contentsline {section}{\numberline {3.3}Conclusion}{4}{section.3.3}
+\contentsline {chapter}{BIBLIOGRAPHY}{5}{appendix*.5}

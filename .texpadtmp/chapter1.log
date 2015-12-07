@@ -1,0 +1,68 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdftex 2015.5.24)  6 DEC 2015 16:06
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/Users/michaelwicks/Documents/git-repos/Candidacy/chapter1.tex
+(/Users/michaelwicks/Documents/git-repos/Candidacy/chapter1.tex
+/Users/michaelwicks/Documents/git-repos/Candidacy/chapter1.tex:33: Undefined control sequence.
+l.33 \chapter
+             {INTRODUCTION}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/michaelwicks/Documents/git-repos/Candidacy/chapter1.tex:35: Undefined control sequence.
+l.35 \section
+             {Motivation}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/michaelwicks/Documents/git-repos/Candidacy/chapter1.tex:42: Undefined control sequence.
+l.42 \section
+             {Theory of Aeroacoustics}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/michaelwicks/Documents/git-repos/Candidacy/chapter1.tex:60: Undefined control sequence.
+l.60 \section
+             {Landing Gear}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/michaelwicks/Documents/git-repos/Candidacy/chapter1.tex:62: Undefined control sequence.
+l.62 \subsection
+                {Geometry}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/michaelwicks/Documents/git-repos/Candidacy/chapter1.tex:64: Undefined control sequence.
+l.64 \subsection
+                {Noise Sources}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+)
+! Emergency stop.
+<*> .../Documents/git-repos/Candidacy/chapter1.tex
+                                                  
+*** (job aborted, no legal \end found)
+
+!  ==> Fatal error occurred, no output PDF file produced!
