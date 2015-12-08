@@ -35,16 +35,75 @@
 \section{Experimental Objective}
 
 \section{Experimental Facility}
+Baseline acoustic measurements without plasma flow control were obtained in the Notre Dame Anechoic Wind Tunnel Facility (ND AWT). The ND AWT is a low-noise, open-jet acoustic wind tunnel with a free jet test section measuring 24-in-(0.610 m)-high by 24-in-(0.610 m)-wide installed in a large anechoic chamber suitable for frequencies above 100 Hz. The maximum empty test section velocity is approximately $U_\infty = 35$ m/s. The maximum safe tunnel velocity with the Notre Dame G550 Nose Landing Gear 30\%-scale model (ND G550) installed is  30 m/s corresponding to a Mach number of $M_\infty=0.1$.
+
+Atmospheric properties such as ambient temperature and pressure were acquired using a digital thermometer and barometer. The tunnel speed is measured using a pitot-static probe installed approximately 6 in (0.154 m) from the free jet inlet centerline. From these data local sonic speed and the flow Mach number is computed.
+
+\begin{figure}
+\begin{center}
+\begin{subfigure}{0.45\textwidth}
+\includegraphics[width=\linewidth]{figures/model1a}
+\caption{Baseline 1}
+\label{fig:mod1a}
+\end{subfigure}
+\hspace*{\fill} % separation between the subfigures
+\begin{subfigure}{0.45\textwidth}
+\includegraphics[width=\linewidth]{figures/model1b}
+\caption{Baseline 2}
+\label{fig:mod1b}
+\end{subfigure}
+\caption{ND G550 model with and without plasma fairing installed.}
+\end{center}
+\end{figure}
 
 \section{Notre Dame G550 Nose Landing Gear Model}
+Acoustic measurement for two baseline landing gear model configurations were performed. The first, designated Baseline 1, consisted of the ND G550 model without the plasma fairing installed, which is shown in the photograph of Figure \ref{fig:mod1a}. The second, designated Baseline 2, involved the ND G550 model retrofitted with a plasma fairing assembly in order to facilitate installation of dielectric barrier discharge (DBD) plasma actuators for flow control. This configuration is shown in the photograph of Figure \ref{fig:mod1b}. None of the acoustic measurements presented in this report for both configurations involved the use of plasma flow control. Rather, the focus was on the characterization of baseline acoustics for both configurations.
 
 \section{Flow Visualization}
 
 \section{Pressure Measurements}
 
 \section{Microphone Measurements}
+A polar array of omnidirectional microphones was used to acquire far field noise level spectra along the length of the AWT test section. It consists of a 1/2-in ACO Model 7046 electret microphone with companion 4012 preamplifier and PS9200 power supply. A schematic illustrating the array is shown in Figure \ref{fig:array}. Additionally, the array configuration relative to the G550 model is shown in the photograph of Figure \ref{fig:arraypic}. The microphone is mounted using a microphone stand so as to protrude from an acoustically treated rail by approximately 13 in (0.330 m). The total range of acoustic source-to-microphone angle spanned by the polar array is approximately $30^\circ \leq \theta \leq 150^\circ$ as referenced from the upper torque arm of the model in the downstream flow direction. As shown in Figure \ref{fig:arraypic}, the polar array is situated along the length of the free jet test section and positioned at the same height as the upper torque arm of the model, with the plane of the microphone located approximately 59 in (1.50 m) from the test section centerline.
+
+\begin{figure}
+	\begin{center}
+		\centerline{\includegraphics[scale=1.0]{figures/array_schematic}}
+		\caption{Schematic of the polar array.}
+		\label{fig:array}
+	\end{center}
+\end{figure}
+
+\begin{figure}
+	\begin{center}
+		\centerline{\includegraphics[scale=1.0]{figures/arraypic}}
+		\caption{Photograph of the polar array installed in the ND AWT.}
+		\label{fig:arraypic}
+	\end{center}
+\end{figure}
+
 
 \section{Data Acquisition}
+For microphone data acquisition, a National Instruments USB-6343 DAQ was used, yielding a total of 45 available channels with 48-bit ADC. The sampling parameters for the microphone data acquisition are listed in Table \ref{tab:data}.
+
+\begin{table}
+ \setlength{\capwidth}{0.8\textwidth}
+\begin{center}
+\caption{Data acquisition parameters.}
+\label{tab:data}
+\begin{tabular}{cccccccc}\toprule
+\parbox{0.1\linewidth}{\centering Sensors} & 
+\parbox{0.12\linewidth}{\centering Sampling Rate (Hz)} & 
+\parbox{0.1\linewidth}{\centering $\frac{Samples} {block}$} & 
+\parbox{0.11\linewidth}{\centering Window Function} & 
+\parbox{0.1\linewidth}{\centering Overlap (\%)} & 
+\parbox{0.1\linewidth}{\centering $N_{blocks}$} & 
+\parbox{0.1\linewidth}{\centering $N_{averages}$} & 
+\parbox{0.11\linewidth}{\centering Acquisition Time (s)} \\ \midrule
+ACO & 65,536 & 2048 & Hanning & 0 & 960 & 960 & 30 \\ \bottomrule
+\end{tabular}
+\end{center}
+\end{table}
 
 \section{Current Results}
 
