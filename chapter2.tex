@@ -68,7 +68,7 @@ A polar array of omnidirectional microphones was used to acquire far field noise
 
 \begin{figure}
 	\begin{center}
-		\centerline{\includegraphics[scale=1.0]{figures/array_schematic}}
+		\centerline{\includegraphics[scale=1.2]{figures/array_schematic}}
 		\caption{Schematic of the polar array.}
 		\label{fig:array}
 	\end{center}
@@ -106,6 +106,188 @@ ACO & 65,536 & 2048 & Hanning & 0 & 960 & 960 & 30 \\ \bottomrule
 \end{table}
 
 \section{Current Results}
+
+\subsection{Wind Tunnel Background Noise Characterization}
+It was deemed important to establish that the background noise levels in the ND AWT were sufficiently below that of the ND G550 model. To that end, measurement of noise levels for both Baseline 1 and Baseline 2 G550 configurations were compared with those obtained with the AWT tunnel runnign empty. Figure \ref{fig:empty} presents a representative comparison of 1/3-octave band sound pressure level (SPL) spectra obtained for the Baseline 1 configurations and the empty tunnel. The figure clearly shows that the background empty tunnel noise level is several orders of magnitude below that of the ND G550, so that the effects of plasma flow control on noise production will be detectable in this facility.
+
+
+\begin{figure}
+	\begin{center}
+		\centerline{\includegraphics[scale=0.7]{figures/mic_empty}}
+		\caption{Representative far field noise level with and without Baseline 1 model installed at $\theta = 90^\circ$}
+		\label{fig:empty}
+	\end{center}
+\end{figure}
+
+\subsection{Far field check}
+This section describes a procedure for verifying the far field assumption for microphone measurements.
+
+\begin{figure}
+	\begin{center}
+		\centerline{\includegraphics[scale=0.7]{figures/mic_far}}
+		\caption{Representative far field noise level with and without Baseline 1 model installed at $\theta = 90^\circ$}
+		\label{fig:far}
+	\end{center}
+\end{figure}
+
+\subsection{Effects of Tripping}
+Previous work on the NASA G550 Nose Landing Gear (NASA G550) involved application of serrated transition strips that were applied along the length of the shock strut in order to create a turbulent boundary layer prior to separation. For consistency with this previous work, the influence of similar aerodynamic trips was explored on the ND G550 Baseline 1 model. A distributed roughness element made of standard diving board tape was fixed to the shock strut. Sample results comparing 1/3-octave band SPL spectra for the tripped and untripped cases are presented in Figure \ref{fig:trip}. This figure shows that there was very little influence of the trip on radiated noise. Since a trip would restrict the optimum placement of the plasma actuators, it was omitted from the model and the acoustic results that follow were obtained without tripping unless otherwise indicated.
+
+\begin{figure}
+	\begin{center}
+		\centerline{\includegraphics[scale=0.7]{figures/mic_trip}}
+		\caption{Comparison of far field noise level with and without the presence of a trip at $\theta = 90^\circ$}
+		\label{fig:trip}
+	\end{center}
+\end{figure}
+
+\subsection{Comparison with University of Florida Anechoic Flow Facility Measurements}
+To match the numerical simulations being performed concurrently in this study, the far field microphone distance $d$, was 72 in (1.83 m) array-to-model and 59 in (1.50 m) microphone-to-model. However, previous studies conducted at the University of Florida Anechoic Flow Facility (UFAFF) on the NASA G550 model were performed at a source-to-microphone distance of 48 in. In order to form a basis for comparison with acoustic results from that study, 1/3-octave band SPL spectra were obtained with the ND Baseline 1 model in the ND AWT for a source-to-microphone distance of 48 in (1.22 m). Even after accounting for the source-to-microphone distance disparity, the UFAFF experiments were performed at a freestream Mach number $M_\infty =$ 0.189 and the Notre Dame experiments were performed at $M_\infty=$ 0.1. The effect of disparate Mach numbers on the SPL can be accounted for by scaling the Notre Dame results via the relation, 
+
+\begin{equation}
+SPL_2 = SPL_1 - 10 \log \left( \frac{M_1}{M_2} \right)^6,
+\end{equation}
+
+where $SPL_1$ and $M_1$ denote the ND AWT experimental values, $M_2$ denotes the UFAFF test Mach number (0.189) and $SPL_2$ represents the ND AWT sound pressure level values corrected for Mach number. Figure \ref{fig:farfield} compares 1/3-octave band SPL spectra obtained in both facilities for the case of $\theta = 90^\circ$. In this plot the frequency is expressed in terms of Strouhal number, $St_D = f D / U_\infty$, where length scale $D$ is the shock strut diameter upstream of the torque arm and $U_\infty$ is the freestream velocity.
+There is good collapse of the NASA G550 and ND G550 data from $0.3 \leq St_D \leq 0.6$. Below this range there is about 4-5 dB difference before the 100 Hz AWT cutoff frequency. Above this range there is significant discrepancy. The NASA G550 model is characterized by a peak near $St_D=$ 3 and spectral roll-off above this peak. The ND G550 model lacks this high frequency content. The components of the ND G550 model are mostly fabricated from SLA plastic, while the NASA G550 consists of mostly aluminum and carbon fiber. To compensate for the differences in tensile strength, thickness was added to several components of the ND G550 model as shown in the CAD images in Figure \ref{fig:cad}. Additionally, it was necessary to construct most of the ND G550 model from plastic to facilitate the retrofitting of plasma actuators. It is possible, but by no means certain that these design modifications may play a roll in the observed differences in noise spectra.
+
+\begin{figure}
+	\begin{center}
+		\centerline{\includegraphics[scale=0.7]{figures/nd_ufaff}}
+		\caption{Comparison of far field noise level at UFAFF and ND AWT facilities at $\theta = 90^\circ$}
+		\label{fig:farfield}
+	\end{center}
+\end{figure}
+
+\begin{figure}
+\begin{center}
+\begin{subfigure}{0.45\textwidth}
+\includegraphics[width=\linewidth]{figures/nasag550}
+\caption{NASA G550}
+\label{fig:nasag550}
+\end{subfigure}
+\hspace*{\fill} % separation between the subfigures
+\begin{subfigure}{0.45\textwidth}
+\includegraphics[width=\linewidth]{figures/ndg550}
+\caption{ND G550}
+\label{fig:ndg550}
+\end{subfigure}
+\caption{Comparison of design of the NASA G550 and ND G550 model geometries.}
+\label{fig:cad}
+\end{center}
+\end{figure}
+
+\subsection{Baseline Sound Magnitude and Directivity}
+The Overall Sound Pressure Level (OASPL) is calculated by integrating the power spectral density from $100 \leq f \leq 12,500$ Hz. OASPL at each location of the polar array, $30^\circ \leq \theta \leq 150^\circ$, is given in Figure \ref{fig:polar}. Baseline far field 1/3-octave band spectra are reported for each location on the polar array in Figure \ref{fig:octave}.
+There is consistent noise reduction of about 6 dB observed at each microphone location from $100 \leq f \leq 200$ Hz. Additionally, the twin peaks at $300$ Hz and $500$ Hz respectively show up as on peak at $300$ Hz for the $\theta = 30^\circ$ location. These spectral peaks increase in magnitude with increasing $\theta$, for $\theta \leq 90^\circ$, and decrease in magnitude for $90^\circ < \theta \leq 150^\circ$. Similar observations were made in unsteady pressure during the Phase I study on the ND torque arm model, suggesting that these peaks are characteristic of the torque arm section of the ND G550 model. However, this will need to be substantiated with unsteady pressure data on the ND G550, which will be included in the next report. Finally, the shape of the partial directivity plot exhibits dipole-like behavior.
+
+\begin{figure}
+\begin{center}
+\begin{subfigure}{0.5\textwidth}
+\includegraphics[width=\linewidth]{figures/octave45}
+\caption{$\theta=45^\circ$}
+\label{fig:octave45}
+\end{subfigure}
+
+\hspace*{\fill} % separation between the subfigures
+
+\begin{subfigure}{0.5\textwidth}
+\includegraphics[width=\linewidth]{figures/octave90}
+\caption{$\theta=90^\circ$}
+\label{fig:octave90}
+\end{subfigure}
+
+\hspace*{\fill} % separation between the subfigures
+
+\begin{subfigure}{0.5\textwidth}
+\includegraphics[width=\linewidth]{figures/octave135}
+\caption{$\theta=135^\circ$}
+\label{fig:octave135}
+\end{subfigure}
+
+\caption{1/3-octave band SPL}
+\label{fig:octave}
+\end{center}
+\end{figure}
+
+\begin{figure}
+\centering
+\begin{subfigure}{0.32\textwidth}
+\includegraphics[width=\linewidth]{figures/octave302}
+\caption{$\theta=30^\circ$}
+\label{fig:octave302}
+\end{subfigure}%
+\hspace*{\fill} % separation between the subfigures
+\begin{subfigure}{0.32\textwidth}
+\includegraphics[width=\linewidth]{figures/octave452}
+\caption{$\theta=45^\circ$}
+\label{fig:octave452}
+\end{subfigure}%
+\hspace*{\fill} % separation between the subfigures
+\begin{subfigure}{0.32\textwidth}
+\includegraphics[width=\linewidth]{figures/octave602}
+\caption{$\theta=60^\circ$}
+\label{fig:octave602}
+\end{subfigure}%
+
+\begin{subfigure}{0.32\textwidth}
+\includegraphics[width=\linewidth]{figures/octave752}
+\caption{$\theta=75^\circ$}
+\label{fig:octave752}
+\end{subfigure}%
+\hspace*{\fill} % separation between the subfigures
+\begin{subfigure}{0.32\textwidth}
+\includegraphics[width=\linewidth]{figures/octave902}
+\caption{$\theta=90^\circ$}
+\label{fig:octave902}
+\end{subfigure}
+\hspace*{\fill} % separation between the subfigures
+\begin{subfigure}{0.32\textwidth}
+\includegraphics[width=\linewidth]{figures/octave1052}
+\caption{$\theta=105^\circ$}
+\label{fig:octave1052}
+\end{subfigure}
+
+\begin{subfigure}{0.32\textwidth}
+\includegraphics[width=\linewidth]{figures/octave1202}
+\caption{$\theta=120^\circ$}
+\label{fig:octave1202}
+\end{subfigure}
+\hspace*{\fill} % separation between the subfigures
+\begin{subfigure}{0.32\textwidth}
+\includegraphics[width=\linewidth]{figures/octave1352}
+\caption{$\theta=135^\circ$}
+\label{fig:octave1352}
+\end{subfigure}
+\hspace*{\fill} % separation between the subfigures
+\begin{subfigure}{0.32\textwidth}
+\includegraphics[width=\linewidth]{figures/octave1502}
+\caption{$\theta=150^\circ$}
+\label{fig:octave1502}
+\end{subfigure}
+
+\caption{1/3-octave band SPL}
+\label{fig:octave2}
+\end{figure}
+
+\begin{figure}
+	\begin{center}
+		\centerline{\includegraphics[scale=0.7]{figures/polar_plot2}}
+		\caption{Polar plot}
+		\label{fig:polar}
+	\end{center}
+\end{figure}
+
+\begin{figure}
+	\begin{center}
+		\centerline{\includegraphics[scale=0.7]{figures/flowvis}}
+		\caption{Landing Gear Flow Visualization}
+		\label{fig:flowvis}
+	\end{center}
+\end{figure}
+
+
+
 
 %In preparation for reading this dissertation, I would highly recommend
 %reading some of the other material available on
