@@ -7,70 +7,92 @@ A level-1 auxiliary file: chapter3.aux
 A level-1 auxiliary file: appendix.aux
 The style file: ../nddiss2e.bst
 Database file #1: ../candidacy.bib
-You're missing a field name---line 7 of file ../candidacy.bib
+You're missing a field name---line 75 of file ../candidacy.bib
  : 
  : %  title =   "Gnus and You: The Art of Being New",
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-You're missing a field name---line 16 of file ../candidacy.bib
+You're missing a field name---line 84 of file ../candidacy.bib
  : 
  : %  author =   "Gary Greenfield",
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-You're missing a field name---line 24 of file ../candidacy.bib
+You're missing a field name---line 92 of file ../candidacy.bib
  : 
  : %  author =  "Gina Gloonston",
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-You're missing a field name---line 36 of file ../candidacy.bib
+You're missing a field name---line 104 of file ../candidacy.bib
  : 
  : %  author =   "Gohnny Galmira",
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-You're missing a field name---line 47 of file ../candidacy.bib
+You're missing a field name---line 115 of file ../candidacy.bib
  : 
  : %   author =       "Grog van Gairley",
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-You've used 1 entry,
+Warning--I didn't find a database entry for "correia2013"
+Warning--I didn't find a database entry for "dob2010"
+Warning--I didn't find a database entry for "curle1955"
+Warning--I didn't find a database entry for "lighthill1954"
+Warning--I didn't find a database entry for ""
+Warning--I didn't find a database entry for "bearman1969"
+Warning--I didn't find a database entry for "astley2008"
+Warning--I didn't find a database entry for "guo2006"
+Warning--I didn't find a database entry for "kozlov2009"
+Warning--to sort, need author or key in faa2015
+Warning--to sort, need author or key in cap2014
+Warning--to sort, need author or key in busquin2001
+Warning--to sort, need author or key in hirschberg2004
+Warning--empty author in busquin2001
+Warning--empty title in busquin2001
+Warning--empty journal in busquin2001
+Warning--empty author in cap2014
+Warning--empty title in cap2014
+Warning--empty journal in cap2014
+Warning--empty author in hirschberg2004
+Warning--empty title in hirschberg2004
+Warning--empty journal in hirschberg2004
+You've used 5 entries,
             2774 wiz_defined-function locations,
-            605 strings with 4841 characters,
-and the built_in function-call counts, 317 in all, are:
-= -- 22
+            621 strings with 4974 characters,
+and the built_in function-call counts, 1228 in all, are:
+= -- 104
 > -- 10
 < -- 1
-+ -- 4
++ -- 8
 - -- 3
-* -- 15
-:= -- 58
-add.period$ -- 3
-call.type$ -- 1
-change.case$ -- 2
-chr.to.int$ -- 1
-cite$ -- 2
-duplicate$ -- 19
-empty$ -- 32
+* -- 86
+:= -- 134
+add.period$ -- 7
+call.type$ -- 5
+change.case$ -- 6
+chr.to.int$ -- 5
+cite$ -- 27
+duplicate$ -- 87
+empty$ -- 162
 format.name$ -- 4
-if$ -- 61
+if$ -- 277
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 2
-newline$ -- 13
+missing$ -- 5
+newline$ -- 25
 num.names$ -- 4
-pop$ -- 12
+pop$ -- 65
 preamble$ -- 1
-purify$ -- 2
+purify$ -- 6
 quote$ -- 0
-skip$ -- 12
+skip$ -- 65
 stack$ -- 0
-substring$ -- 2
-swap$ -- 1
+substring$ -- 14
+swap$ -- 2
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 6
-warning$ -- 0
+type$ -- 50
+warning$ -- 13
 while$ -- 3
 width$ -- 0
-write$ -- 19
+write$ -- 47
 (There were 5 error messages)

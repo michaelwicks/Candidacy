@@ -1,9 +1,21 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{5}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[bus(2001)]{busquin2001}
+2001.
+
+\bibitem[cap(2014)]{cap2014}
+2014.
+
+\bibitem[faa(2015)]{faa2015}
+2015.
+
+\bibitem[hir(2004)]{hirschberg2004}
+2004.
 
 \bibitem[Howe(2003)]{howe2003}
 M.~S. Howe.
