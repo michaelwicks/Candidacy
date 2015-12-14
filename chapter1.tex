@@ -35,16 +35,16 @@ Air travel in the U.S. is steadily growing due in part to an improving economy. 
 
 The steady encroachment of airports is especially problematic in metropolitan areas, where aircraft noise can negatively impact quality of life. While this issue began as a public interest initiative, a recent study has found a statistically significant link between aircraft noise and cardiovascular disease \cite{correia2013}. Correia et al. looked at 89 of the largest airports across the U.S., and found that, even when controlling for other environmental factors, a 10 dB increase in noise was associated with a 3.5 \% increase in hospital admissions in patients 65 years and older. Additional studies are ongoing, especially in the UK and EU, examining other potential adverse health effects such as delayed cognitive development in children,  \cite{cap2014}. In light of these studies, it is clear: engineers and scientists have an ethical imperative to ensure the safety of technology. 
 
-Progress is being made in the field of aeroacoustics. In general, aircraft have become ``quieter'', especially due to the widespread adoption of the turbofan jet engine. With the reduction of jet engine noise, aircraft noise has come to a level comparable to that of the airframe on approach and landing conditions \cite{dob2010}. The airframe is the new ``lower noise barrier'' of aircraft noise production. Efforts have been taken to quantify airframe noise. Gibson performed flyover noise measurements and identified landing gears and high-lift devices as the two major noise contributors \cite{gibson}.
+Progress is being made in the field of aeroacoustics. In general, aircraft have become ``quieter'', especially due to the widespread adoption of the turbofan jet engine. With the reduction of jet engine noise, aircraft noise has come to a level comparable to that of the airframe on approach and landing conditions \cite{dob2010}. The airframe is the new ``lower noise barrier'' of aircraft noise production. Efforts have been taken to quantify airframe noise. Gibson performed flyover noise measurements and identified landing gears and high-lift devices as the two major noise contributors \cite{gibson1974}.
 
-In addition to these efforts, several government initiatives have been launched to advance quiet aircraft technology. In the EU, European Visions 2020 requires to ``reduce subjective noise impact by half'' (minus 10 dB) per operation by 2020 relative to year 2000 level technology \cite{dob}. While in the US, the national Advanced Subsonic Transport (AST) and Quiet Aircraft Technology research programs have even more stringent milestones.
+In addition to these efforts, several government initiatives have been launched to advance quiet aircraft technology. In the EU, European Visions 2020 requires to ``reduce subjective noise impact by half'' (minus 10 dB) per operation by 2020 relative to year 2000 level technology \cite{busquin2001}. While in the US, the national Advanced Subsonic Transport (AST) and Quiet Aircraft Technology research programs have even more stringent milestones.
 
 Due in part to these initiatives, many basic noise reduction technologies have been applied to aircraft landing gear. 
 
-Dobrzynski et al. studied the effect of solid, streamlined add-on fairings to various areas of main and nose landing gears. While these fairings were effective at reducing mid and high frequency noise levels, they also had adverse effects. This study and those like it revealed that solid fairings acted to increase local flow velocity and thereby noise from adjacent gear components.
+Dobrzynski et al. studied the effect of solid, streamlined add-on fairings to various areas of main and nose landing gears \cite{dob2002}. While these fairings were effective at reducing mid and high frequency noise levels, they also had adverse effects. This study and those like it revealed that solid fairings acted to increase local flow velocity and thereby noise from adjacent gear components.
 
 The findings of solid fairing studies suggested that if flow could be 
-Ravetta et al. Porous fairings
+Ravetta et al. Porous fairings \cite{ravetta2008}.
 
 These technologies utilize passive flow control. 
 
@@ -182,7 +182,7 @@ The scope of this study is limited to work on the G550 nose landing gear, but wh
 
 \subsection{Geometry}
 
-The Gulfstream G550 Nose landing gear was selected due to an industry collaboration with NASA. In Neuhart et al., this design was aerodynamically characterized to provide a database of aerodynamic and acoustic data by which to compare experiments and simulations. 
+The Gulfstream G550 Nose landing gear was selected due to an industry collaboration with NASA. In Neuhart et al., this design was aerodynamically characterized to provide a database of aerodynamic and acoustic data by which to compare experiments and simulations \cite{neuhart2009}.
 
 The actual landing gear is depicted in Figure \ref{fig:lg1} for reference, and shown schematically in Figure \ref{fig:lg2}.
 
@@ -199,7 +199,7 @@ The actual landing gear is depicted in Figure \ref{fig:lg1} for reference, and s
 \begin{figure}
 	\begin{center}
 		\centerline{\includegraphics[scale=0.7]{figures/lg_schematic.pdf}}
-		\caption{Schematic view of Gulfstream 550 Nose Landing Gear components.}
+		\caption{Schematic view of Gulfstream 550 Nose Landing Gear components \cite{g550uom}}
 		\label{fig:lg2}
 	\end{center}
 \end{figure}
@@ -215,7 +215,7 @@ Recall that adding a solid boundary to the flow drastically altered the source t
     
     Most aerodynamic bodies are characterized by their drag force. When a body is streamlined, it is said that the total drag is dominated by the viscous drag component.  However, for some bodies the total drag is dominated by the pressure drag component, these bodies are referred to as bluff. Bluff bodies can be a major contributor to flow-generated noise, due in part to the unsteady wake these structures tend to cause. The canonical example of a bluff body is a simple cylinder, for which the flow is well understood. It is dominated by large-scale von Karman vortex shedding of frequency $f$, over the cylinder body of characteristic length $L$. This vortex shedding frequency is characterized by the dimensionless Strouhal number $St = \frac{fL}{U_\infty}$, which is constant over a wide range of Reynolds numbers $Re = \frac{\rho U_\infty L}{\mu}$ \cite{bearman1969}, where $\rho$ and $\mu$ represent mean density and dynamic viscosity of the freestream flow, respectively. This large-scale vortex shedding corresponds to periodic unsteady surface pressure which is responsible for the generation of tonal noise. 
     
-More complex geometries such as the landing gear, can be considered as a collections of bluff bodies. Counter-intuitively, the acoustic signature for the landing gear is broadband in nature which is associated with turbulence \cite{astley2008}. As depicted in Figure \ref{fig:lg1}, the landing gear components are arranged in close proximity to one another. It is possible that this proximity stifles full wake development, effectively preventing the large-scale vortex shedding observed for the simple cylinder. This suggests that flow control on fundamental geometries, while useful, may not be representative of the actual flow physics. This is the foundation for the previously suggested strategy of examining sub-systems. 
+More complex geometries such as the landing gear, can be considered as a collections of bluff bodies. Counter-intuitively, the acoustic signature for the landing gear is broadband in nature which is associated with turbulence \cite{zawodny2009}. As depicted in Figure \ref{fig:lg1}, the landing gear components are arranged in close proximity to one another. It is possible that this proximity stifles full wake development, effectively preventing the large-scale vortex shedding observed for the simple cylinder. This suggests that flow control on fundamental geometries, while useful, may not be representative of the actual flow physics. This is the foundation for the previously suggested strategy of examining sub-systems. 
 
 In addition to varying inter-component spacings, the presence of multiple length scales in the landing gear geometry implies that some components may also contribute to the total noise as reflective sources. Guo et al. divided the far-field noise propagation into three regimes based on the concept of acoustic compactness \cite{guo2006} Since an acoustic wave in a medium is governed by the speed of sound then $c_o = \lambda f$. A source is said to be acoustically compact if $kL << 1$ where $k$ is the acoustic wavenumber defined as $k = \frac{2 \pi}{\lambda} = \frac{2 \pi f}{c_o}$, $\lambda$ is the acoustic wavelength, and $L$ is the characteristic length. It is noncompact if $kL \geq 1$. For a full-scale Boeing 737 main landing gear large (wheels and doors) and medium geometries (main struts and linkages) represented low and mid-range frequencies, respectively. Small geometries (hoses, sharp edges, and electrical wiring) represented high frequency noncompact acoustic sources. While compact sources behave like a distribution of dipoles, noncompact sources represent phase variations in surface pressure leading to degradation of radiation efficiency (quadrupole). 
 
@@ -250,9 +250,9 @@ This section provides a review of aeroacoustic research pertinent to the develop
 
 \subsection{Single Cylinder Plasma Flow Control}
 
-The single cylinder is the most simplified representation of the landing gear strut. Active flow control efforts by means of DBD plasma actuators were first applied to this generic bluff body geometry as proof-of-concept. Several experiments and large-eddy simulations (LES) were performed at the University of Notre Dame to show the viability of this technology \cite{kozlov2009}. Two flow control strategies were employed: spanwise plasma actuators, and plasma streamwise vortex generators (PSVGs). The latter of these devices is made up of a spanwise array of electrodes oriented in the streamwise direction. Flow visualization of these techniques is shown in Figure \ref{fig:flowvis}. 
+The single cylinder is the most simplified representation of the landing gear strut. Active flow control efforts by means of DBD plasma actuators were first applied to this generic bluff body geometry as proof-of-concept. Several experiments and large-eddy simulations (LES) were performed at the University of Notre Dame to show the viability of this technology \cite{kozlov2011} \cite{kim2009}. Two flow control strategies were employed: spanwise plasma actuators, and plasma streamwise vortex generators (PSVGs). The latter of these devices is made up of a spanwise array of electrodes oriented in the streamwise direction. Flow visualization of these techniques is shown in Figure \ref{fig:flowvis}. 
 
-Both approaches were effective in significantly suppressing Karman vortex shedding, if by different mechanisms. Spanwise plasma actuators achieve flow control through modification of the detached free shear layer. PSVGs induce streawise voriticity into the nascent cylinder wake, promoting rapid wake mixing. Kozlov et al. performed near field microphone measurements with $d=$ 0.61 m, demonstrating a reduction in noise levels of 11.2 dB and 14.2 dB for spanwise actuators and PSVGs, respectively. These results were promising and inspired more studies on a slightly more complex geometry: tandem cylinders.
+Both approaches were effective in significantly suppressing Karman vortex shedding, if by different mechanisms. Spanwise plasma actuators achieve flow control through modification of the detached free shear layer. PSVGs induce streawise voriticity into the nascent cylinder wake, promoting rapid wake mixing. Kozlov et al. performed near field microphone measurements with $d=$ 0.61 m, demonstrating a reduction in noise levels of 11.2 dB and 14.2 dB for spanwise actuators and PSVGs, respectively \cite{kozlov2011}. These results were promising and inspired more studies on a slightly more complex geometry: tandem cylinders.
 
 \begin{figure}
 	\begin{center}
@@ -270,11 +270,11 @@ The tandem cylinders configuration is the next stage in the development of flow 
 
 Zdravkovich comprehensively reviewed two circular cylinders of the same diameter at subcritical Reynolds number. 
 
-\cite{zdrovkovich}
+\cite{zdravkovich1985}
 
-\cite{kozlov}
-\cite{khorami}
-\cite{wang}
+\cite{kozlov20112}
+\cite{khorrami2005}
+\cite{eltaweel2014}
 
 
 
@@ -292,8 +292,9 @@ Zdravkovich comprehensively reviewed two circular cylinders of the same diameter
 
 \subsection{Shock Strut-Torque Arm Assembly Plasma Flow Control}
 
-Huang et al. studied the acoustic of plasma actuators on a torque arm apparatus. By applying spanwise plasma actuators in both an 'upstream' and 'downstream' configuration, two types of flow control were explored. The upstream configuration served to create a virtual plasma fairing effect by routing the shear layers around the downstream components, reducing the overall noise generated by wake impingement. The downstream configuration is shown to have reduced vortical structures, lowering the unsteadiness int he wake. 
-\cite{huang1}
+Huang et al. studied the acoustic of plasma actuators on a torque arm apparatus \cite{huang2010}. By applying spanwise plasma actuators in both an 'upstream' and 'downstream' configuration, two types of flow control were explored. The upstream configuration served to create a virtual plasma fairing effect by routing the shear layers around the downstream components, reducing the overall noise generated by wake impingement. The downstream configuration is shown to have reduced vortical structures, lowering the unsteadiness in the wake. 
+
+\cite{huang2010}
 \cite{huang2}
 
 \begin{figure}
