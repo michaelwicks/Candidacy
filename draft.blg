@@ -1,0 +1,64 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: draft.aux
+A level-1 auxiliary file: chapter1.aux
+A level-1 auxiliary file: chapter2.aux
+A level-1 auxiliary file: chapter3.aux
+A level-1 auxiliary file: appendix.aux
+The style file: nddiss2e.bst
+Database file #1: candidacy.bib
+Warning--I didn't find a database entry for ""
+Warning--I didn't find a database entry for "bearman1969"
+Warning--I didn't find a database entry for "huang2"
+Warning--empty journal in busquin2001
+Warning--empty journal in dob2002
+Warning--empty institution in cap2014
+Warning--empty journal in gibson1974
+Warning--empty publisher in g550uom
+Warning--empty journal in khorrami2005
+Warning--empty journal in kim2009
+Warning--empty journal in neuhart2009
+Warning--empty journal in ravetta2008
+Warning--empty journal in zawodny2009
+You've used 23 entries,
+            2774 wiz_defined-function locations,
+            730 strings with 8098 characters,
+and the built_in function-call counts, 9226 in all, are:
+= -- 795
+> -- 535
+< -- 14
++ -- 186
+- -- 162
+* -- 699
+:= -- 1495
+add.period$ -- 70
+call.type$ -- 23
+change.case$ -- 98
+chr.to.int$ -- 22
+cite$ -- 56
+duplicate$ -- 427
+empty$ -- 770
+format.name$ -- 193
+if$ -- 1917
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 24
+newline$ -- 124
+num.names$ -- 92
+pop$ -- 247
+preamble$ -- 1
+purify$ -- 77
+quote$ -- 0
+skip$ -- 311
+stack$ -- 0
+substring$ -- 244
+swap$ -- 21
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 238
+warning$ -- 10
+while$ -- 78
+width$ -- 0
+write$ -- 294
+(There were 13 warnings)

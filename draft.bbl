@@ -1,13 +1,147 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{23}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 
+\bibitem[Busquin(2001)]{busquin2001}
+M.~A. Busquin.
+\newblock European aeronautics: A vision for 2020, meeting society's needs and
+  winning global leadership.
+\newblock Rept. of the group of personalities, Advisory Council for Aeronautics
+  Research in Europe, Jan 2001.
+
+\bibitem[Correia et~al.(2013)Correia, Peters, Levy, Melly, and
+  Dominici]{correia2013}
+A.~W. Correia, J.~L. Peters, J.~I. Levy, S.~Melly, and F.~Dominici.
+\newblock Residential exposure to aircraft noise and hospital admissions for
+  cardiovascular diseases: multi-airport retrospective study.
+\newblock \emph{BMJ}, 347, 2013.
+
+\bibitem[Curle(1955)]{curle1955}
+N.~Curle.
+\newblock The influence of solid boundaries upon aerodynamic sound.
+\newblock \emph{Proceedings of the Royal Society A: Mathematical and Physical
+  Sciences}, 231\penalty0 (1187):\penalty0 505--514, 1955.
+
+\bibitem[Dobrzynski(2010)]{dob2010}
+W.~Dobrzynski.
+\newblock Almost 40 years of airframe noise research: What did we achieve?
+\newblock \emph{Journal of Aircraft}, 47\penalty0 (2):\penalty0 353--367, April
+  2010.
+
+\bibitem[Dobrzynski et~al.(2002)Dobrzynski, Chow, Guion, and Shiells]{dob2002}
+W.~Dobrzynski, L.~C. Chow, P.~Guion, and D.~Shiells.
+\newblock Research into landing gear airframe noise reduction.
+\newblock AIAA/Conference European Aerospace Societies Paper 2002-2409, June
+  2002.
+
+\bibitem[Eltaweel et~al.(2014)Eltaweel, Wang, Kim, Thomas, and
+  Kozlov]{eltaweel2014}
+A.~Eltaweel, M.~Wang, D.~Kim, F.~O. Thomas, and A.~Kozlov.
+\newblock Numerical investigation of tandem-cylinder noise reduction using
+  plasma-based flow control.
+\newblock \emph{J. Fluid Mech}, 756:\penalty0 422--451, 2014.
+
+\bibitem[{Environmental Research and Consultancy Department}(2014)]{cap2014}
+{Environmental Research and Consultancy Department}.
+\newblock Aircraft noise, sleep disturbance and health effects cap 1164.
+\newblock Technical report, June 2014.
+
+\bibitem[Gibson(1974)]{gibson1974}
+J.~S. Gibson.
+\newblock Non-engine aerodynamic noise investigation of a large aircraft.
+\newblock NASA CR-2377, 1974.
+
+\bibitem[{Gulfstream Aerospace Corporation}(2014)]{g550uom}
+{Gulfstream Aerospace Corporation}.
+\newblock \emph{G-550 Aircraft Maintenance Manual}.
+\newblock 2014.
+
+\bibitem[Guo et~al.(2009)Guo, Stoker, and Yamamoto]{guo2006}
+Y.~Guo, R.~Stoker, and K.~Yamamoto.
+\newblock Experimental study on aircraft landing gear noise.
+\newblock \emph{Journal of Aircraft}, 43\penalty0 (2):\penalty0 306--317, 2009.
+
+\bibitem[Hirschberg and Rienstra(2004)]{hirschberg2004}
+A.~Hirschberg and S.~W. Rienstra.
+\newblock \emph{An introduction to aeroacoustics}.
+\newblock Eindhoven University of Technology, 2004.
+
 \bibitem[Howe(2003)]{howe2003}
 M.~S. Howe.
 \newblock \emph{Theory of Vortex Sound - Lighthill's Theory}.
 \newblock Cambridge University Press, 2003.
+
+\bibitem[Huang et~al.(2010)Huang, Zhang, and Li]{huang2010}
+X.~Huang, X.~Zhang, and Y.~Li.
+\newblock Broadband flow-induced sound control using plasma actuators.
+\newblock \emph{Journal of Sound and Vibration}, 329\penalty0 (13):\penalty0
+  2477--2489, 2010.
+
+\bibitem[Khorrami et~al.(2005)Khorrami, Choudhari, Jenkins, and
+  McGinley]{khorrami2005}
+M.~R. Khorrami, M.~M. Choudhari, L.~N. Jenkins, and C.~B. McGinley.
+\newblock Unsteady flowfield around tandem cylinders as prototype for component
+  interaction airframe noise.
+\newblock 11th AIAA/CEAS Aeroacoustics Conference AIAA Paper 2005-2866, 2005.
+
+\bibitem[Kim and Wang(2009)]{kim2009}
+D.~Kim and M.~Wang.
+\newblock Large eddy simulations of flow over a circular cylinder with plasma
+  based control.
+\newblock 47th AIAA Aerospace Sciences Meeting AIAA Paper 2009-1080, 2009.
+
+\bibitem[Kozlov and Thomas(2011{\natexlab{a}})]{kozlov2011}
+A.~V. Kozlov and F.~O. Thomas.
+\newblock Bluff-body flow control via two types of dielectric barrier discharge
+  plasma actuation.
+\newblock \emph{AIAA Journal}, 49\penalty0 (9):\penalty0 1919--1931,
+  2011{\natexlab{a}}.
+
+\bibitem[Kozlov and Thomas(2011{\natexlab{b}})]{kozlov20112}
+A.~V. Kozlov and F.~O. Thomas.
+\newblock Plasma flow control of cylinders in a tandem configuration.
+\newblock \emph{AIAA Journal}, 49\penalty0 (10):\penalty0 2183--2193,
+  2011{\natexlab{b}}.
+
+\bibitem[Lighthill(1954)]{lighthill1954}
+M.~J. Lighthill.
+\newblock On sound generated aerodynamically. ii. turbulence as a source of
+  sound.
+\newblock \emph{Proceedings of the Royal Society A: Mathematical and Physical
+  Sciences}, 222\penalty0 (1148):\penalty0 1--32, 1954.
+
+\bibitem[Neuhart et~al.(2009)Neuhart, Khorrami, and Choudhari]{neuhart2009}
+D.~H. Neuhart, M.~R. Khorrami, and M.~M. Choudhari.
+\newblock Aerodynamics of a gulstream g550 nose landing gear model.
+\newblock 15th AIAA/CEAS Aeroacoustics Conference AIAA Paper 2009-3152, 2009.
+
+\bibitem[Price(2015)]{faa2015}
+H.~J. Price.
+\newblock Faa forecast sees continued, steady growth in air travel.
+\newblock Website, 2015.
+\newblock \url{http://www.faa.gov}.
+
+\bibitem[Ravetta et~al.(2007)Ravetta, Burdisso, and Ng]{ravetta2008}
+P.~A. Ravetta, R.~A. Burdisso, and W.~F. Ng.
+\newblock Noise control of landing gears using elastic membrane-based fairings.
+\newblock AIAA/Conference European Aerospace Societies Paper 2007-3466, May
+  2007.
+
+\bibitem[Zawodny et~al.(2009)Zawodny, Liu, Yardibi, Cattafesta, Neuhart, and
+  {{Van de Ven}}]{zawodny2009}
+N.~S. Zawodny, F.~Liu, T.~Yardibi, L.~Cattafesta, D.~H. Neuhart, and T.~{{Van
+  de Ven}}.
+\newblock A comparative study of a 1/4-scale gulfstream aircraft nose gear
+  model.
+\newblock 15th AIAA/CEAS Aeroacoustics Conference AIAA Paper 2009-3153, 2009.
+
+\bibitem[Zdravkovich(1985)]{zdravkovich1985}
+M.~M. Zdravkovich.
+\newblock Flow induced oscillations of two interfering circular cylinders.
+\newblock \emph{Journal of Sound and Vibration}, 101\penalty0 (4):\penalty0
+  511--521, 1985.
 
 \end{thebibliography}
