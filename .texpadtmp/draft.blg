@@ -33,8 +33,7 @@ You're missing a field name---line 244 of file ../candidacy.bib
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
 Warning--I didn't find a database entry for ""
-Warning--I didn't find a database entry for "bearman1969"
-Warning--I didn't find a database entry for "huang2"
+Warning--I didn't find a database entry for "wicks2015"
 Warning--empty journal in busquin2001
 Warning--empty journal in dob2002
 Warning--empty institution in cap2014
@@ -47,7 +46,7 @@ Warning--empty journal in ravetta2008
 Warning--empty journal in zawodny2009
 You've used 23 entries,
             2774 wiz_defined-function locations,
-            730 strings with 8226 characters,
+            729 strings with 8218 characters,
 and the built_in function-call counts, 9226 in all, are:
 = -- 795
 > -- 535
