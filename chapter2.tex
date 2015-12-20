@@ -34,7 +34,7 @@
 The following chapter provides details on the experiments completed to date
 
 \section{Experimental Objective}
-Several key features of the flow over aircraft landing gear geometry have yet to be fully understood. One such feature is the main strut and door interaction. The preliminary experiments outlined in this chapter exploring this interaction have revealed potential flow control strategies to be investigated in the proposed experiments outlined in chapter 3.
+Several key features of the flow over aircraft landing gear geometry have yet to be fully understood. One such feature is the main strut and door interaction. The preliminary experiments outlined in this chapter, exploring this interaction, have revealed potentially viable flow control strategies to be investigated in the proposed experiments outlined in chapter 3.
 
 
 \section{Experimental Facility}
@@ -60,9 +60,9 @@ Atmospheric properties such as ambient temperature and pressure were acquired us
 \end{figure}
 
 \section{Notre Dame G550 Nose Landing Gear Model}
-Acoustic measurement for two baseline landing gear model configurations were performed. The first, designated Baseline 1, consisted of the ND G550 model without the plasma fairing installed, which is shown in the photograph of Figure \ref{fig:mod1a}. The second, designated Baseline 2, involved the ND G550 model retrofitted with a plasma fairing assembly in order to facilitate installation of dielectric barrier discharge (DBD) plasma actuators for flow control. This configuration is shown in the photograph of Figure \ref{fig:mod1b}.
+The Notre Dame G550 (ND G550) nose landing gear model has two baseline configurations without plasma actuation. The first, designated Baseline 1, consisted of the ND G550 model without the plasma fairing installed, which is shown in the photograph of Figure \ref{fig:mod1a}. The second, designated Baseline 2, involved the ND G550 model retrofitted with a plasma fairing assembly in order to facilitate the installation of DBD plasma actuators for flow control. This configuration is shown in the photograph of Figure \ref{fig:mod1b}.
 
-Spanwise plasma actuators were fixed to the $\pm 90^\circ$ locations to ascertain the effects, if any, on the flow. The plasma actuator was constructed using ULTEM dielectric and 1 in exposed and covered copper electrodes. Also, it was operated using a sine wave carrier frequency of 1 kHz operating at 40 kV peak-to-peak voltage.
+Spanwise plasma actuators were fixed to the $\pm 90^\circ$ locations to ascertain the effects on the flow. The plasma actuator was constructed using 1/8 in ULTEM dielectric and 1 in exposed and covered copper electrodes. Also, it was operated using a sine wave carrier frequency of 1 kHz with 40 kV peak-to-peak voltage. With this configuration, the plasma actuators can be oeprated in both two-sided and one-sided modes.
 
 \section{Microphone Measurements}
 A polar array of omnidirectional microphones was used to acquire far field noise level spectra along the length of the AWT test section. It consists of a 1/2-in ACO Model 7046 electret microphone with companion 4012 preamplifier and PS9200 power supply. A schematic illustrating the array is shown in Figure \ref{fig:array}. Additionally, the array configuration relative to the G550 model is shown in the photograph of Figure \ref{fig:arraypic}. The microphone is mounted using a microphone stand so as to protrude from an acoustically treated rail by approximately 13 in (0.330 m). The total range of acoustic source-to-microphone angle spanned by the polar array is approximately $30^\circ \leq \theta \leq 150^\circ$ as referenced from the upper torque arm of the model in the downstream flow direction. As shown in Figure \ref{fig:arraypic}, the polar array is situated along the length of the free jet test section and positioned at the same height as the upper torque arm of the model, with the plane of the microphone located approximately 59 in (1.50 m) from the test section centerline.
@@ -84,9 +84,17 @@ A polar array of omnidirectional microphones was used to acquire far field noise
 \end{figure}
 
 \section{Flow Visualization}
-A commercial time-resolved PIV system comprising a Litron Nd:YLF ($\lambda =$ 527 nm) dual-cavity laser and Photron SA1 high-speed camera (12 bit, maximum resolution 1280 x 800 pixels) was utilized. This system was operated in single-frame mode at a repetition rate of 2k frames per second (fps). Images were acquired with a spatial resolution of 1020 x 1020 pixels. During each run, N = 2k images were recorded. A 60 mm Nikon Nikkor Micro lens was fitted and oriented orthogonal and $45^\circ$ to the flow (to resolve region between main strut and door).
+A commercial time-resolved PIV system comprising a Litron Nd:YLF ($\lambda =$ 527 nm) dual-cavity laser and Photron SA1 high-speed camera (12 bit, maximum resolution 1280 x 800 pixels) was utilized. This system was operated in single-frame mode at a repetition rate of 2k frames per second (fps). Images were acquired with a spatial resolution of 1020 x 1020 pixels. During each run, N = 2k images were recorded. A 60 mm Nikon Nikkor Micro lens was fitted and oriented orthogonal and $45^\circ$ to the flow (to resolve region between main strut and door). The experimental setup is depicted in Figure \ref{fig:flowvissetup}.
 
-Continuous DEHS fog consisting of nominally 1-mm-diameter droplets generated by a TSI six-jet particle atomizer were introduced upstream of the wind-tunnel inlet contraction. The Nd:YLF laser was used to illuminate the fog in a spanwise planes shown in Figure \ref{fig:laserplane}. Flow visualization was performed with baseline 1, 2, and plasma on, in order to assess the global influence on the wake interaction with the main strut and door. 
+Continuous DEHS fog consisting of nominally 1-mm-diameter droplets generated by a TSI six-jet particle atomizer were introduced upstream of the wind-tunnel inlet contraction. The Nd:YLF laser was used to illuminate the fog in a spanwise plane located 6 in from the base of the model. Flow visualization was performed with baseline 1, 2, and plasma on, in order to assess the global influence on the wake interaction with the main strut and door. 
+
+\begin{figure}
+	\begin{center}
+		\centerline{\includegraphics[scale=0.2]{figures/flowvis_setup.jpg}}
+		\caption{Photograph of the experimental setup for high speed flow visualization.}
+		\label{fig:flowvissetup}
+	\end{center}
+\end{figure}
 
 \section{Data Acquisition}
 For microphone data acquisition, a National Instruments USB-6343 DAQ was used, yielding a total of 45 available channels with 48-bit ADC. The sampling parameters for the microphone data acquisition are listed in Table \ref{tab:data}.
@@ -125,13 +133,13 @@ It was deemed important to establish that the background noise levels in the ND 
 
 \subsection{Far field check}
 This section describes a procedure for verifying the far field assumption for microphone measurements.
-For a microphone measurement to be classified as far field, the microphone-to-source distance must be greater than the acoustic wavelength. To check this a relation can be made between power spectral density, $PSD$, and microphone-to-source distance, $d$. Recall from equation \ref{eq:pflux} that $p' \approx 1/d$, therefore, it follows that $PSD \approx 1/d$. Combining this relation at $d =$ 48 in and $d =$ 59 yields,
+For a microphone measurement to be classified as far field, the microphone-to-source distance must be greater than the acoustic wavelength. To check this, a relation can be made between power spectral density, $PSD$, and microphone-to-source distance, $d$. Recall from equation \ref{eq:pflux} that $p' \propto 1/d$, therefore, it follows that $PSD \propto 1/d$. Combining this relation at $d =$ 48 in and $d =$ 59 yields,
 
 \begin{equation}
-\frac{PSD_1}{PSD_2} \approx \frac{d_2}{d_1} \approx 1.23.
+\frac{PSD_1}{PSD_2} \propto \frac{d_2}{d_1} \propto 1.23.
 \end{equation}
 
-The $PSDs$ at both of these locations is plotted along with a reference line at 1.23 in Figure \ref{fig:far}. The measured microphone data exhibits oscillations about the theoretical value of 1.23. The average of the oscillations collapses to the theoretical value if one excludes frequencies below 100 Hz. This suggests that to resolve frequencies below 100 Hz larger values for $d$ are necessary. Previous experiments have reinforced that this lower limit on acoustic measurements is acceptable.
+The $PSDs$ at both of these locations is plotted along with a reference line at 1.23 in Figure \ref{fig:far}. The measured microphone data exhibits oscillations about the theoretical value of 1.23. Also, the average of the oscillations collapses to approximately this value if frequencies below 100 Hz are excluded. This suggests that to resolve frequencies below 100 Hz larger values for $d$ are necessary. Previous experiments on landing gear geometry have reinforced that this lower limit on acoustic measurements is acceptable, as most observed flow behavior is attributed to frequencies above this cutoff.
  
 \begin{figure}
 	\begin{center}
@@ -142,7 +150,7 @@ The $PSDs$ at both of these locations is plotted along with a reference line at 
 \end{figure}
 
 \subsection{Comparison with UFAFF Measurements}
-To match the numerical simulations being performed concurrently in this study, the far field microphone distance $d$, was 72 in (1.83 m) array-to-model and 59 in (1.50 m) microphone-to-model. However, previous studies conducted at the University of Florida Anechoic Flow Facility (UFAFF) on the NASA G550 model were performed at a source-to-microphone distance of 48 in. In order to form a basis for comparison with acoustic results from that study, 1/3-octave band SPL spectra were obtained with the ND Baseline 1 model in the ND AWT for a source-to-microphone distance of 48 in (1.22 m). Even after accounting for the source-to-microphone distance disparity, the UFAFF experiments were performed at a freestream Mach number $M_\infty =$ 0.189 and the Notre Dame experiments were performed at $M_\infty=$ 0.1. The effect of disparate Mach numbers on the SPL can be accounted for by scaling the Notre Dame results via the relation, 
+In this study, the far field microphone distance $d$, was 72 in (1.83 m) array-to-model and 59 in (1.50 m) microphone-to-model. However, previous studies conducted at the University of Florida Anechoic Flow Facility (UFAFF) on the NASA G550 model were performed at a source-to-microphone distance of 48 in. In order to form a basis for comparison with acoustic results from that study, 1/3-octave band SPL spectra were obtained with the ND Baseline 1 model in the ND AWT for a source-to-microphone distance of 48 in (1.22 m). Even after accounting for the source-to-microphone distance disparity, the UFAFF experiments were performed at a freestream Mach number $M_\infty =$ 0.189 and the Notre Dame experiments were performed at $M_\infty=$ 0.1. The effect of disparate Mach numbers on the SPL can be accounted for by scaling the Notre Dame results via the relation, 
 
 \begin{equation}
 SPL_2 = SPL_1 - 10 \log \left( \frac{M_1}{M_2} \right)^6,
@@ -193,9 +201,11 @@ Three key locations on the polar array were selected for microphone measurements
 
 The 1/3-octave band SPL spectra for the aforementioned actuator configurations are given in Figure \ref{fig:octave}. Recall from Figure \ref{fig:mic_empty}, that the left most peak is below the 100 Hz cutoff frequency and is most likely due to fan noise inherent to the facility. The acoustic signature at each location is characterized by two peaks at approximately $300$ Hz and $500$ Hz of varying magnitude. Most of the change caused by the plasma fairing occurs around these frequencies, with the exception of a slight increase in frequency due to the self-noise of the plasma actuators for $6 \leq f \leq 12.5$. 
 
-The Overall Sound Pressure Level (OASPL) is calculated by integrating the power spectral density from $100 \leq f \leq 1000$ Hz. This range was selected to eliminate te effect of plasma self-noise which is operated at a carrier frequency of 1000 Hz. OASPL at each location, $\theta = 45^\circ, 90^\circ, 135^\circ$, is given in Figure \ref{fig:polar}. There is a slight decrease for the Baseline 2 and sine 40 kV one-side cases at $\theta = 135^\circ$ of 0.12 dB and 0.13 dB, respectively. Also, the plasma actuation actually increased the noise at each location with the exception of the sine 40 kV one-sided case at $\theta = 135^\circ$. 
+The Overall Sound Pressure Level (OASPL) is calculated by integrating the power spectral density from $100 \leq f \leq 1000$ Hz. This range was selected to eliminate any effects from the self-noise generated by the plasma actuator which is operated at a carrier frequency of 1000 Hz. OASPL at each location, $\theta = 45^\circ, 90^\circ, 135^\circ$, is given in Figure \ref{fig:polar}. There is a slight decrease for the Baseline 2 and sine 40 kV one-side cases at $\theta = 135^\circ$ of 0.12 dB and 0.13 dB, respectively. Also, the plasma actuation actually increased the noise at each location with the exception of the sine 40 kV one-sided case at $\theta = 135^\circ$. 
 
-To better understand the perplexing results of the acoustic measurements, flow visualization was performed to resolve the change to the global flow field and the effects on the main strut and door wake interaction. The results are given in Figure \ref{fig:flowvis}.  
+To better understand the perplexing results of the acoustic measurements, flow visualization was performed to resolve the change to the global flow field and the effects on the main strut and door wake interaction. These images are given in Figure \ref{fig:flowvis}.  When comparing the global flow field of Baseline 1 and 2, it is clear that the addition of the fairing acts to increase the spanwise extent of the wake caused by the upstream main strut. This results in reduction of the impingement of the detached shear layers on the downstream door. Interestingly, the activation of the plasma actuators in both two-sided and one-sided modes created a global flow field closer to that of the Baseline 1 case. Also, the plasma actuators increased unsteadiness in region between the the main strut and door, resulting in a significant increase in noise. 
+
+While these initial results show an increase in noise due to plasma actuation, there are implications for favorable flow control strategies. Configurations of plasma actuators that direct the detached shear layers around landing gear components may result in a significant reduction in noise. This could be accomplished by using spanwise plasma actuators to `trip' the flow, causing premature flow separation on the plasma fairing. Additionally, wake unsteadiness could be accomplished by utilizing PSVGs to promote mixing, thereby reducing large-scale vorticies in size.
 
 %\begin{figure}
 %\centering
@@ -281,7 +291,7 @@ To better understand the perplexing results of the acoustic measurements, flow v
 \label{fig:octave135}
 \end{subfigure}
 
-\caption{1/3-octave band SPL}
+\caption{1/3-octave band sound pressure level for various plasma actuator configurations.}
 \label{fig:octave}
 \end{center}
 \end{figure}
@@ -289,7 +299,7 @@ To better understand the perplexing results of the acoustic measurements, flow v
 \begin{figure}
 	\begin{center}
 		\centerline{\includegraphics[scale=0.7]{figures/polar_plot4}}
-		\caption{Polar plot}
+		\caption{Overall sound pressure level at key polar array locations.}
 		\label{fig:polar}
 	\end{center}
 \end{figure}
@@ -297,7 +307,7 @@ To better understand the perplexing results of the acoustic measurements, flow v
 \begin{figure}
 	\begin{center}
 		\centerline{\includegraphics[scale=0.7]{figures/flowvis}}
-		\caption{Landing Gear Flow Visualization}
+		\caption{Landing gear flow visualization orthogonal (left) and at $45^\circ$ (right).}
 		\label{fig:flowvis}
 	\end{center}
 \end{figure}
@@ -423,4 +433,4 @@ To better understand the perplexing results of the acoustic measurements, flow v
 % if using chapter-wise bibliography
 %
 % \bibliographystyle{ndnatbib}
-% \bibliography{example}
+% \bibliography{example}-

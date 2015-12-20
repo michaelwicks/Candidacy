@@ -7,33 +7,31 @@ A level-1 auxiliary file: chapter3.aux
 A level-1 auxiliary file: appendix.aux
 The style file: ../nddiss2e.bst
 Database file #1: ../candidacy.bib
-You're missing a field name---line 204 of file ../candidacy.bib
+You're missing a field name---line 210 of file ../candidacy.bib
  : 
  : %  title =   "Gnus and You: The Art of Being New",
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-You're missing a field name---line 213 of file ../candidacy.bib
+You're missing a field name---line 219 of file ../candidacy.bib
  : 
  : %  author =   "Gary Greenfield",
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-You're missing a field name---line 221 of file ../candidacy.bib
+You're missing a field name---line 227 of file ../candidacy.bib
  : 
  : %  author =  "Gina Gloonston",
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-You're missing a field name---line 233 of file ../candidacy.bib
+You're missing a field name---line 239 of file ../candidacy.bib
  : 
  : %  author =   "Gohnny Galmira",
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-You're missing a field name---line 244 of file ../candidacy.bib
+You're missing a field name---line 250 of file ../candidacy.bib
  : 
  : %   author =       "Grog van Gairley",
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for ""
-Warning--I didn't find a database entry for "wicks2015"
 Warning--empty journal in busquin2001
 Warning--empty journal in dob2002
 Warning--empty institution in cap2014
@@ -43,46 +41,47 @@ Warning--empty journal in khorrami2005
 Warning--empty journal in kim2009
 Warning--empty journal in neuhart2009
 Warning--empty journal in ravetta2008
+Warning--empty journal in wicks2015
 Warning--empty journal in zawodny2009
-You've used 23 entries,
+You've used 24 entries,
             2774 wiz_defined-function locations,
-            729 strings with 8218 characters,
-and the built_in function-call counts, 9226 in all, are:
-= -- 795
-> -- 535
+            732 strings with 8401 characters,
+and the built_in function-call counts, 9784 in all, are:
+= -- 838
+> -- 592
 < -- 14
-+ -- 186
-- -- 162
-* -- 699
-:= -- 1495
-add.period$ -- 70
-call.type$ -- 23
-change.case$ -- 98
-chr.to.int$ -- 22
-cite$ -- 56
-duplicate$ -- 427
-empty$ -- 770
-format.name$ -- 193
-if$ -- 1917
++ -- 205
+- -- 180
+* -- 750
+:= -- 1589
+add.period$ -- 73
+call.type$ -- 24
+change.case$ -- 106
+chr.to.int$ -- 23
+cite$ -- 59
+duplicate$ -- 446
+empty$ -- 800
+format.name$ -- 212
+if$ -- 2027
 int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 24
-newline$ -- 124
-num.names$ -- 92
-pop$ -- 247
+missing$ -- 25
+newline$ -- 129
+num.names$ -- 96
+pop$ -- 265
 preamble$ -- 1
-purify$ -- 77
+purify$ -- 84
 quote$ -- 0
-skip$ -- 311
+skip$ -- 329
 stack$ -- 0
-substring$ -- 244
+substring$ -- 246
 swap$ -- 21
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 238
-warning$ -- 10
-while$ -- 78
+type$ -- 249
+warning$ -- 11
+while$ -- 81
 width$ -- 0
-write$ -- 294
+write$ -- 306
 (There were 5 error messages)

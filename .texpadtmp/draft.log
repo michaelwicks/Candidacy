@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  15 DEC 2015 20:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  19 DEC 2015 20:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -500,37 +500,20 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has b
 l.108 \makecopyright
                      [1
 
-]
-Abstract page(s)
-pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.136 
-       [1
-
-
-] [2]
-Dedication page
-pdfTeX warning (ext4): destination with the same identifier (name{page.ii}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.162 \end{dedication}
-                       [2
-
-] (/Users/michaelwicks/Documents/git-repos/Candidacy/.texpadtmp/draft.toc [3
+] (/Users/michaelwicks/Documents/git-repos/Candidacy/.texpadtmp/draft.toc [2
 
 
 ])
 \tf@toc=\write4
 \openout4 = `draft.toc'.
 
- [4]
+ [3]
 List of figures - FIGURES
 (/Users/michaelwicks/Documents/git-repos/Candidacy/.texpadtmp/draft.lof)
 \tf@lof=\write5
 \openout5 = `draft.lof'.
 
- [5
+ [4
 
 ]
 List of tables - TABLES
@@ -538,7 +521,7 @@ List of tables - TABLES
 \tf@lot=\write6
 \openout6 = `draft.lot'.
 
- [6
+ [5
 
 ]
 \openout2 = `chapter1.aux'.
@@ -549,207 +532,167 @@ CHAPTER 1.
 
 
 
-] [2] [3] [4] [5] [6] [7] <figures/g550_nlg.pdf, id=368, 1027.84pt x 687.56876pt>
+] [2] [3] [4] [5] [6] [7] <figures/g550_nlg.pdf, id=343, 1027.84pt x 687.56876pt>
 File: figures/g550_nlg.pdf Graphic file (type pdf)
  <use figures/g550_nlg.pdf>
-Package pdftex.def Info: figures/g550_nlg.pdf used on input line 189.
+Package pdftex.def Info: figures/g550_nlg.pdf used on input line 185.
 (pdftex.def)             Requested size: 411.12872pt x 275.02263pt.
- <figures/lg_schematic.pdf, id=369, 558.085pt x 504.88625pt>
+ <figures/lg_schematic.pdf, id=344, 558.085pt x 504.88625pt>
 File: figures/lg_schematic.pdf Graphic file (type pdf)
  <use figures/lg_schematic.pdf>
-Package pdftex.def Info: figures/lg_schematic.pdf used on input line 197.
-(pdftex.def)             Requested size: 279.04182pt x 252.44249pt.
+Package pdftex.def Info: figures/lg_schematic.pdf used on input line 193.
+(pdftex.def)             Requested size: 334.85359pt x 302.93407pt.
  [8 <./figures/g550_nlg.pdf>] [9 <./figures/lg_schematic.pdf>] [10]
-Underfull \hbox (badness 10000) in paragraph at lines 224--224
+Underfull \hbox (badness 10000) in paragraph at lines 220--220
 []\OT1/cmr/m/n/12 Acoustic
  []
 
 
-Overfull \hbox (16.87393pt too wide) in paragraph at lines 222--234
+Overfull \hbox (16.87393pt too wide) in paragraph at lines 218--230
  [][] 
  []
 
-[11] [12] <figures/single_span.pdf, id=512, 323.7726pt x 110.18967pt>
+[11] [12] <figures/single_span.pdf, id=487, 323.7726pt x 110.18967pt>
 File: figures/single_span.pdf Graphic file (type pdf)
  <use figures/single_span.pdf>
-Package pdftex.def Info: figures/single_span.pdf used on input line 249.
+Package pdftex.def Info: figures/single_span.pdf used on input line 245.
 (pdftex.def)             Requested size: 323.77179pt x 110.18938pt.
- <figures/single_psvg.pdf, id=513, 320.16412pt x 93.13867pt>
+ <figures/single_psvg.pdf, id=488, 320.16412pt x 93.13867pt>
 File: figures/single_psvg.pdf Graphic file (type pdf)
  <use figures/single_psvg.pdf>
-Package pdftex.def Info: figures/single_psvg.pdf used on input line 250.
+Package pdftex.def Info: figures/single_psvg.pdf used on input line 246.
 (pdftex.def)             Requested size: 320.16333pt x 93.13844pt.
- [13 <./figures/single_span.pdf> <./figures/single_psvg.pdf>] <figures/tandem_span.pdf, id=545, 313.2192pt x 114.4265pt>
+ [13 <./figures/single_span.pdf> <./figures/single_psvg.pdf>] <figures/tandem_span.pdf, id=520, 313.2192pt x 114.4265pt>
 File: figures/tandem_span.pdf Graphic file (type pdf)
  <use figures/tandem_span.pdf>
-Package pdftex.def Info: figures/tandem_span.pdf used on input line 263.
+Package pdftex.def Info: figures/tandem_span.pdf used on input line 259.
 (pdftex.def)             Requested size: 313.21841pt x 114.42621pt.
- <figures/tandem_psvg.pdf, id=546, 316.17221pt x 112.0175pt>
+ <figures/tandem_psvg.pdf, id=521, 316.17221pt x 112.0175pt>
 File: figures/tandem_psvg.pdf Graphic file (type pdf)
  <use figures/tandem_psvg.pdf>
-Package pdftex.def Info: figures/tandem_psvg.pdf used on input line 264.
+Package pdftex.def Info: figures/tandem_psvg.pdf used on input line 260.
 (pdftex.def)             Requested size: 316.17142pt x 112.01721pt.
-
-
-Package natbib Warning: Citation `wicks2015' on page 14 undefined on input line 274.
-
-[14] <figures/torque_arm.pdf, id=560, 429.52472pt x 312.2064pt>
+ [14] <figures/torque_arm.pdf, id=536, 429.52472pt x 312.2064pt>
 File: figures/torque_arm.pdf Graphic file (type pdf)
  <use figures/torque_arm.pdf>
-Package pdftex.def Info: figures/torque_arm.pdf used on input line 278.
+Package pdftex.def Info: figures/torque_arm.pdf used on input line 274.
 (pdftex.def)             Requested size: 429.52367pt x 312.20564pt.
 ) [15 <./figures/tandem_span.pdf> <./figures/tandem_psvg.pdf>] [16 <./figures/torque_arm.pdf>]
 \openout2 = `chapter2.aux'.
 
  (./chapter2.tex
 CHAPTER 2.
-[17
-
-
-
-] <figures/model1a.pdf, id=598, 144.54pt x 252.945pt>
+<figures/model1a.pdf, id=570, 144.54pt x 252.945pt>
 File: figures/model1a.pdf Graphic file (type pdf)
  <use figures/model1a.pdf>
-Package pdftex.def Info: figures/model1a.pdf used on input line 49.
+Package pdftex.def Info: figures/model1a.pdf used on input line 48.
 (pdftex.def)             Requested size: 194.39868pt x 340.21436pt.
- <figures/model1b.pdf, id=599, 144.54pt x 252.945pt>
+ <figures/model1b.pdf, id=571, 144.54pt x 252.945pt>
 File: figures/model1b.pdf Graphic file (type pdf)
  <use figures/model1b.pdf>
-Package pdftex.def Info: figures/model1b.pdf used on input line 55.
+Package pdftex.def Info: figures/model1b.pdf used on input line 54.
 (pdftex.def)             Requested size: 194.39868pt x 340.21436pt.
- [18 <./figures/model1a.pdf> <./figures/model1b.pdf>] <figures/array_schematic.pdf, id=636, 299.1175pt x 213.12924pt>
+ [17
+
+
+
+] [18 <./figures/model1a.pdf> <./figures/model1b.pdf>] [19] <figures/array_schematic.pdf, id=617, 299.1175pt x 213.12924pt>
 File: figures/array_schematic.pdf Graphic file (type pdf)
  <use figures/array_schematic.pdf>
-Package pdftex.def Info: figures/array_schematic.pdf used on input line 75.
+Package pdftex.def Info: figures/array_schematic.pdf used on input line 72.
 (pdftex.def)             Requested size: 358.9392pt x 255.75378pt.
- <figures/arraypic.pdf, id=637, 355.3275pt x 234.8775pt>
+ <figures/arraypic.pdf, id=618, 355.3275pt x 234.8775pt>
 File: figures/arraypic.pdf Graphic file (type pdf)
  <use figures/arraypic.pdf>
-Package pdftex.def Info: figures/arraypic.pdf used on input line 83.
+Package pdftex.def Info: figures/arraypic.pdf used on input line 80.
 (pdftex.def)             Requested size: 355.32661pt x 234.87692pt.
- [19] [20 <./figures/array_schematic.pdf> <./figures/arraypic.pdf>]
-Overfull \hbox (10.63747pt too wide) in paragraph at lines 106--106
+ [20 <./figures/array_schematic.pdf>] <figures/flowvis_setup.jpg, id=643, 1084.05pt x 1927.2pt>
+File: figures/flowvis_setup.jpg Graphic file (type jpg)
+ <use figures/flowvis_setup.jpg>
+Package pdftex.def Info: figures/flowvis_setup.jpg used on input line 93.
+(pdftex.def)             Requested size: 216.80615pt x 385.43318pt.
+
+Overfull \hbox (10.63747pt too wide) in paragraph at lines 115--115
  []\OT1/cmr/m/n/12 Acquisition 
  []
 
 
-Overfull \hbox (26.8916pt too wide) in paragraph at lines 98--109
+Overfull \hbox (26.8916pt too wide) in paragraph at lines 107--118
  [][] 
  []
 
-<figures/mic_empty.pdf, id=682, 562.1pt x 421.575pt>
+[21 <./figures/arraypic.pdf>] [22 <./figures/flowvis_setup.jpg>] <figures/mic_empty.pdf, id=669, 562.1pt x 421.575pt>
 File: figures/mic_empty.pdf Graphic file (type pdf)
  <use figures/mic_empty.pdf>
-Package pdftex.def Info: figures/mic_empty.pdf used on input line 120.
+Package pdftex.def Info: figures/mic_empty.pdf used on input line 128.
 (pdftex.def)             Requested size: 393.46732pt x 295.10048pt.
- <figures/mic_far.pdf, id=683, 562.1pt x 421.575pt>
+ [23] [24 <./figures/mic_empty.pdf>] <figures/mic_far.pdf, id=686, 562.1pt x 421.575pt>
 File: figures/mic_far.pdf Graphic file (type pdf)
  <use figures/mic_far.pdf>
-Package pdftex.def Info: figures/mic_far.pdf used on input line 131.
+Package pdftex.def Info: figures/mic_far.pdf used on input line 146.
 (pdftex.def)             Requested size: 393.46732pt x 295.10048pt.
- [21] [22 <./figures/mic_empty.pdf>] [23 <./figures/mic_far.pdf>] <figures/mic_trip.pdf, id=705, 562.1pt x 421.575pt>
-File: figures/mic_trip.pdf Graphic file (type pdf)
- <use figures/mic_trip.pdf>
-Package pdftex.def Info: figures/mic_trip.pdf used on input line 142.
-(pdftex.def)             Requested size: 393.46732pt x 295.10048pt.
- [24 <./figures/mic_trip.pdf>] <figures/nd_ufaff.pdf, id=715, 562.1pt x 421.575pt>
+ [25 <./figures/mic_far.pdf>] <figures/nd_ufaff.pdf, id=696, 562.1pt x 421.575pt>
 File: figures/nd_ufaff.pdf Graphic file (type pdf)
  <use figures/nd_ufaff.pdf>
-Package pdftex.def Info: figures/nd_ufaff.pdf used on input line 160.
+Package pdftex.def Info: figures/nd_ufaff.pdf used on input line 164.
 (pdftex.def)             Requested size: 393.46732pt x 295.10048pt.
- [25] <figures/nasag550.pdf, id=721, 216.81pt x 182.6825pt>
+ <figures/nasag550.pdf, id=697, 216.81pt x 182.6825pt>
 File: figures/nasag550.pdf Graphic file (type pdf)
  <use figures/nasag550.pdf>
-Package pdftex.def Info: figures/nasag550.pdf used on input line 169.
+Package pdftex.def Info: figures/nasag550.pdf used on input line 173.
 (pdftex.def)             Requested size: 194.39868pt x 163.80782pt.
- <figures/ndg550.pdf, id=722, 216.81pt x 182.6825pt>
+ <figures/ndg550.pdf, id=698, 216.81pt x 182.6825pt>
 File: figures/ndg550.pdf Graphic file (type pdf)
  <use figures/ndg550.pdf>
-Package pdftex.def Info: figures/ndg550.pdf used on input line 175.
+Package pdftex.def Info: figures/ndg550.pdf used on input line 179.
 (pdftex.def)             Requested size: 194.39868pt x 163.80782pt.
- [26 <./figures/nd_ufaff.pdf>] <figures/octave45.pdf, id=732, 562.1pt x 421.575pt>
+ [26] [27 <./figures/nd_ufaff.pdf> <./figures/nasag550.pdf> <./figures/ndg550.pdf>] <figures/mic_trip.pdf, id=738, 562.1pt x 421.575pt>
+File: figures/mic_trip.pdf Graphic file (type pdf)
+ <use figures/mic_trip.pdf>
+Package pdftex.def Info: figures/mic_trip.pdf used on input line 193.
+(pdftex.def)             Requested size: 393.46732pt x 295.10048pt.
+
+
+LaTeX Warning: Reference `fig:mic_empty' on page 28 undefined on input line 202.
+
+[28] [29 <./figures/mic_trip.pdf>] [30] <figures/octave45.pdf, id=758, 562.1pt x 421.575pt>
 File: figures/octave45.pdf Graphic file (type pdf)
  <use figures/octave45.pdf>
-Package pdftex.def Info: figures/octave45.pdf used on input line 191.
+Package pdftex.def Info: figures/octave45.pdf used on input line 273.
 (pdftex.def)             Requested size: 216.0pt x 162.00131pt.
- <figures/octave90.pdf, id=733, 562.1pt x 421.575pt>
+ <figures/octave90.pdf, id=759, 562.1pt x 421.575pt>
 File: figures/octave90.pdf Graphic file (type pdf)
  <use figures/octave90.pdf>
-Package pdftex.def Info: figures/octave90.pdf used on input line 199.
+Package pdftex.def Info: figures/octave90.pdf used on input line 281.
 (pdftex.def)             Requested size: 216.0pt x 162.00131pt.
- <figures/octave135.pdf, id=734, 562.1pt x 421.575pt>
+ <figures/octave135.pdf, id=760, 562.1pt x 421.575pt>
 File: figures/octave135.pdf Graphic file (type pdf)
  <use figures/octave135.pdf>
-Package pdftex.def Info: figures/octave135.pdf used on input line 207.
+Package pdftex.def Info: figures/octave135.pdf used on input line 289.
 (pdftex.def)             Requested size: 216.0pt x 162.00131pt.
- <figures/octave302.pdf, id=735, 562.1pt x 421.575pt>
-File: figures/octave302.pdf Graphic file (type pdf)
- <use figures/octave302.pdf>
-Package pdftex.def Info: figures/octave302.pdf used on input line 220.
-(pdftex.def)             Requested size: 138.24316pt x 103.68239pt.
- <figures/octave452.pdf, id=736, 562.1pt x 421.575pt>
-File: figures/octave452.pdf Graphic file (type pdf)
- <use figures/octave452.pdf>
-Package pdftex.def Info: figures/octave452.pdf used on input line 226.
-(pdftex.def)             Requested size: 138.24316pt x 103.68239pt.
- <figures/octave602.pdf, id=737, 562.1pt x 421.575pt>
-File: figures/octave602.pdf Graphic file (type pdf)
- <use figures/octave602.pdf>
-Package pdftex.def Info: figures/octave602.pdf used on input line 232.
-(pdftex.def)             Requested size: 138.24316pt x 103.68239pt.
- <figures/octave752.pdf, id=738, 562.1pt x 421.575pt>
-File: figures/octave752.pdf Graphic file (type pdf)
- <use figures/octave752.pdf>
-Package pdftex.def Info: figures/octave752.pdf used on input line 238.
-(pdftex.def)             Requested size: 138.24316pt x 103.68239pt.
- <figures/octave902.pdf, id=739, 562.1pt x 421.575pt>
-File: figures/octave902.pdf Graphic file (type pdf)
- <use figures/octave902.pdf>
-Package pdftex.def Info: figures/octave902.pdf used on input line 244.
-(pdftex.def)             Requested size: 138.24316pt x 103.68239pt.
- <figures/octave1052.pdf, id=740, 562.1pt x 421.575pt>
-File: figures/octave1052.pdf Graphic file (type pdf)
- <use figures/octave1052.pdf>
-Package pdftex.def Info: figures/octave1052.pdf used on input line 250.
-(pdftex.def)             Requested size: 138.24316pt x 103.68239pt.
- <figures/octave1202.pdf, id=741, 562.1pt x 421.575pt>
-File: figures/octave1202.pdf Graphic file (type pdf)
- <use figures/octave1202.pdf>
-Package pdftex.def Info: figures/octave1202.pdf used on input line 256.
-(pdftex.def)             Requested size: 138.24316pt x 103.68239pt.
- <figures/octave1352.pdf, id=742, 562.1pt x 421.575pt>
-File: figures/octave1352.pdf Graphic file (type pdf)
- <use figures/octave1352.pdf>
-Package pdftex.def Info: figures/octave1352.pdf used on input line 262.
-(pdftex.def)             Requested size: 138.24316pt x 103.68239pt.
- <figures/octave1502.pdf, id=743, 562.1pt x 421.575pt>
-File: figures/octave1502.pdf Graphic file (type pdf)
- <use figures/octave1502.pdf>
-Package pdftex.def Info: figures/octave1502.pdf used on input line 268.
-(pdftex.def)             Requested size: 138.24316pt x 103.68239pt.
- <figures/polar_plot2.pdf, id=744, 562.1pt x 421.575pt>
-File: figures/polar_plot2.pdf Graphic file (type pdf)
- <use figures/polar_plot2.pdf>
-Package pdftex.def Info: figures/polar_plot2.pdf used on input line 279.
+ <figures/polar_plot4.pdf, id=761, 562.1pt x 421.575pt>
+File: figures/polar_plot4.pdf Graphic file (type pdf)
+ <use figures/polar_plot4.pdf>
+Package pdftex.def Info: figures/polar_plot4.pdf used on input line 301.
 (pdftex.def)             Requested size: 393.46732pt x 295.10048pt.
- <figures/flowvis.pdf, id=745, 449.03758pt x 650.43pt>
+ <figures/flowvis.pdf, id=762, 449.03758pt x 650.43pt>
 File: figures/flowvis.pdf Graphic file (type pdf)
  <use figures/flowvis.pdf>
-Package pdftex.def Info: figures/flowvis.pdf used on input line 287.
+Package pdftex.def Info: figures/flowvis.pdf used on input line 309.
 (pdftex.def)             Requested size: 314.32414pt x 455.2979pt.
-) [27 <./figures/nasag550.pdf> <./figures/ndg550.pdf>] [28 <./figures/octave45.pdf> <./figures/octave90.pdf> <./figures/octave135.pdf>] [29 <./figures/octave302.pdf> <./figures/octave452.pdf> <./figures/octave602.pdf> <./figures/octave752.pdf> <./figures/octave902.pdf> <./figures/octave1052.pdf> <./figures/octave1202.pdf> <./figures/octave1352.pdf> <./figures/octave1502.pdf>] [30 <./figures/polar_plot2.pdf>] [31 <./figures/flowvis.pdf>]
+) [31] [32 <./figures/octave45.pdf> <./figures/octave90.pdf> <./figures/octave135.pdf>] [33 <./figures/polar_plot4.pdf>] [34 <./figures/flowvis.pdf>]
 \openout2 = `chapter3.aux'.
 
  (./chapter3.tex
 CHAPTER 3.
-) [32
+[35
 
 
 
-]
+] [36]) [37]
 \openout2 = `appendix.aux'.
 
- (./appendix.tex) (/Users/michaelwicks/Documents/git-repos/Candidacy/.texpadtmp/draft.bbl [33
+ (./appendix.tex) (/Users/michaelwicks/Documents/git-repos/Candidacy/.texpadtmp/draft.bbl [38
 
 
 
@@ -757,23 +700,23 @@ CHAPTER 3.
 
 ])
 
-Package natbib Warning: There were undefined citations.
-
-
 LaTeX Font Warning: Font shape `OT1/cmss/m/sc' in size <10> not available
 (Font)              Font shape `OT1/cmr/m/sc' tried instead on input line 330.
 
-[34]
+[39]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 330.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 330.
  (/Users/michaelwicks/Documents/git-repos/Candidacy/.texpadtmp/draft.aux (/Users/michaelwicks/Documents/git-repos/Candidacy/.texpadtmp/chapter1.aux) (/Users/michaelwicks/Documents/git-repos/Candidacy/.texpadtmp/chapter2.aux) (/Users/michaelwicks/Documents/git-repos/Candidacy/.texpadtmp/chapter3.aux) (/Users/michaelwicks/Documents/git-repos/Candidacy/.texpadtmp/appendix.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 330.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 330.
 Package rerunfilecheck Info: File `draft.out' has not changed.
-(rerunfilecheck)             Checksum: 7D566C8276B6C55A08451275561E8433;2405.
+(rerunfilecheck)             Checksum: C20AAAB8A3388D36297AB667287DB92E;2414.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were undefined references.
 
 
 LaTeX Warning: There were multiply-defined labels.
@@ -781,18 +724,18 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 330.
  ) 
 Here is how much of TeX's memory you used:
- 8630 strings out of 493089
- 131761 string characters out of 6134842
- 225940 words of memory out of 5000000
- 11741 multiletter control sequences out of 15000+600000
- 16996 words of font info for 69 fonts, out of 8000000 for 9000
+ 8575 strings out of 493089
+ 130560 string characters out of 6134842
+ 224474 words of memory out of 5000000
+ 11692 multiletter control sequences out of 15000+600000
+ 16828 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 42i,16n,40p,1602b,565s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxsl10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on /Users/michaelwicks/Documents/git-repos/Candidacy/.texpadtmp/draft.pdf (44 pages, 27278947 bytes).
+ 42i,16n,40p,1557b,563s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxsl10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on /Users/michaelwicks/Documents/git-repos/Candidacy/.texpadtmp/draft.pdf (46 pages, 27820821 bytes).
 PDF statistics:
- 986 PDF objects out of 1000 (max. 8388607)
- 734 compressed objects within 8 object streams
- 141 named destinations out of 1000 (max. 500000)
- 436 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 935 PDF objects out of 1000 (max. 8388607)
+ 691 compressed objects within 7 object streams
+ 143 named destinations out of 1000 (max. 500000)
+ 380 words of extra memory for PDF output out of 10000 (max. 10000000)
 
