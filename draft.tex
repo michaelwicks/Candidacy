@@ -78,6 +78,7 @@
 % sort&compress (sorts and compresses numerical citations;
 %           is identical to sort when used with textrefs)
 \usepackage{subcaption}
+\usepackage{pdfpages}
 
 \begin{document}
 
@@ -326,6 +327,10 @@
 %		
 %		\bibitem[van Gairley(2000)]{gairley2000} G.\ van Gairley. Gnu's review. Website, 2000. \url{http://www.gairley.gnu}.
 %	\end{thebibliography}
+
+\includepdf[pages=-]{figures/psvg_paper}
+
+\includepdf[pages=-]{figures/humidity_paper}
 
 \end{document}
 
